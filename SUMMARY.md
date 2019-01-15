@@ -35,7 +35,7 @@
 
 ## 3D打印套件
 
-* [月球灯](3d-da-yin-tao-jian/yue-qiu-deng.md)
+* [月球灯](3d-print-product/yue-qiu-deng.md)
 
 ## 数字科学家
 
