@@ -45,5 +45,3 @@ Nova是一款专门面向少年儿童创客设计、开发的开源硬件，使�
 
 [Nduino HD原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/nova/pdf/02010002-Nduino%20HD.pdf)
 
-## 常见问题
-
