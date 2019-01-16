@@ -1,3 +1,7 @@
+---
+description: '111'
+---
+
 # Scratch传感器板
 
 ## 概述
