@@ -100,8 +100,15 @@
 ## 3D打印套件
 
 * [月球灯](3d-da-yin-tao-jian/yue-qiu-deng.md)
+* [灯光主板](3d-da-yin-tao-jian/deng-guang-zhu-ban.md)
+* [电机主板](3d-da-yin-tao-jian/dian-ji-zhu-ban.md)
+* [互联网主板](3d-da-yin-tao-jian/hu-lian-wang-zhu-ban.md)
+* [时钟主板](3d-da-yin-tao-jian/shi-zhong-zhu-ban.md)
+* [音乐主板](3d-da-yin-tao-jian/yin-le-zhu-ban.md)
+* [通用主板](3d-da-yin-tao-jian/tong-yong-zhu-ban.md)
+* [机器人主板](3d-da-yin-tao-jian/ji-qi-ren-zhu-ban.md)
 
 ## 数字科学家
 
-* [Untitled](shu-zi-ke-xue-jia/untitled.md)
+* [主机](shu-zi-ke-xue-jia/untitled.md)
 

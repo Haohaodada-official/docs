@@ -1,33 +1,41 @@
-# DHT11温湿度传感器模块说明   
+# 温湿度传感器模块
 
 ## 概述
+
 DHT11温湿度传感器可同时测量温度和湿度，它应用专用的数字模块采集技术和温湿度传感技术，使产品具有极高的可靠性与稳定性。超小的体积、极低的功耗，信号传输距离可达20米以上，使其成为各类应用甚至最为苛刻的应用场合的最佳选则。
 
-## 参数 
-- 尺寸：48x24mm
-- 工作电压：+3.3-5V
-- 温度范围：0-50℃ 误差±2℃
-- 湿度范围：20-90%RH 误差±5%RH
-- 接口类型：XH2.54mm-3P
-- 引脚定义：1-地 2-电源 3-信号
+## 参数
+
+* 尺寸：48x24mm
+* 工作电压：+3.3-5V
+* 温度范围：0-50℃ 误差±2℃
+* 湿度范围：20-90%RH 误差±5%RH
+* 接口类型：XH2.54mm-3P
+* 引脚定义：1-地 2-电源 3-信号
 
 ## 接口说明
-- 可用端口：2、3、4、9、10、11、12、13、A0、A1、A2、A3
+
+* 可用端口：2、3、4、9、10、11、12、13、A0、A1、A2、A3
 
 ## 使用方式
-![](./images/14.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/14.png)
 
 ## 示例代码
-![](./images/66.png)
 
-![](./images/41.png)
-	
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/66.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/41.png)
+
 [DHT11温湿度传感器模块示例代码](http://www.haohaodada.com/show.php?id=955675)
 
 ## 原理图
-[DHT11温湿度传感器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/%E6%B8%A9%E6%B9%BF%E5%BA%A6%E6%A8%A1%E5%9D%97.pdf)
+
+[DHT11温湿度传感器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/温湿度模块.pdf)
 
 ## 尺寸说明
-![](./images/01.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
 
 ## 常见问题
+

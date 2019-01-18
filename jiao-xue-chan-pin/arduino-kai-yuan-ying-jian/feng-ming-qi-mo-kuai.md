@@ -1,31 +1,39 @@
-# 蜂鸣器模块说明 
+# 蜂鸣器模块
 
 ## 概述
+
 蜂鸣器模块的蜂鸣器为无源蜂鸣器，根据输入的频率不同，产生不同的声音。蜂鸣器的工作原理是利用电磁感应现象，为音圈接入交变电流后形成的电磁铁与永磁铁相吸或相斥而推动振膜发声，接入直流电只能持续推动振膜而无法产生声音，只能在接通或断开时产生声音。
 
-## 参数 
-- 尺寸：48x24mm
-- 工作电压：5V
-- 接口类型：XH2.54mm-3P
-- 引脚定义：1-地 2-电源 3-信号
+## 参数
+
+* 尺寸：48x24mm
+* 工作电压：5V
+* 接口类型：XH2.54mm-3P
+* 引脚定义：1-地 2-电源 3-信号
 
 ## 接口说明
-- 可用端口：2、3、4、9、10、11、12、13、A0、A1、A2、A3
+
+* 可用端口：2、3、4、9、10、11、12、13、A0、A1、A2、A3
 
 ## 使用方式
-![](./images/22.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/22.png)
 
 ## 示例代码
-![](./images/91.png)
 
-![](./images/54.png)
-	
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/91.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/54.png)
+
 [蜂鸣器模块示例代码](http://www.haohaodada.com/show.php?id=955996)
 
 ## 原理图
-[蜂鸣器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/%E8%9C%82%E9%B8%A3%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
+
+[蜂鸣器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/蜂鸣器模块.pdf)
 
 ## 尺寸说明
-![](./images/01.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
 
 ## 常见问题
+

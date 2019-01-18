@@ -1,25 +1,27 @@
-# MP3模块说明   
+# MP3模块
 
 ## 概述
+
 MP3模块是一款可以播放歌曲的模块，采用语音芯片YX5200进行解析音乐文件，通过喇叭发出音乐。模块上电之后SD卡下面有一个红色LED灯会亮，当其开始工作后，接线口旁边一个绿灯会闪烁。 SD卡内部mp3文件设置： SD卡内部新建文件夹，将其命名为mp3。 mp3文件夹内部放置音乐，音乐文件后缀支持.mp3及.wav后缀名。内部放置音乐文件命名必须以0001开头，最多支持65536首曲目。
 
-## 参数 
-- 尺寸：48x24mm
-- 工作电压：5V
-- 接口类型：XH2.54mm-3P
-- 引脚定义：1-地 2-电源 3-信号
+## 参数
+
+* 尺寸：48x24mm
+* 工作电压：5V
+* 接口类型：XH2.54mm-3P
+* 引脚定义：1-地 2-电源 3-信号
 
 ## 接口说明
-- 可用端口：2、3、4、9、10、11、12、13、A0、A1、A2、A3
+
+* 可用端口：2、3、4、9、10、11、12、13、A0、A1、A2、A3
 
 ## 使用方式
-![](./images/33.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/33.png)
 
 SD 卡内部 mp3 文件设置：
 
-MP3 使用说明:
-SD 卡内部新建文件夹，将其命名为 mp3。
-mp3 文件夹内部放置音乐，音乐文件后缀支持.mp3 及.wav 后缀名。内部放置音乐文件命名必须以 0001 开头，最多支持 65536 首曲目。
+MP3 使用说明: SD 卡内部新建文件夹，将其命名为 mp3。 mp3 文件夹内部放置音乐，音乐文件后缀支持.mp3 及.wav 后缀名。内部放置音乐文件命名必须以 0001 开头，最多支持 65536 首曲目。
 
 程序说明：
 
@@ -27,29 +29,31 @@ mp3 程序块有三个，分别为音量设置，指定曲目播放和播放模�
 
 音量设置一般放置在初始化中，设定音量 0~100，根据实际需要设置即可。
 
-![](./images/40.png)
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/40.png)
 
 指定播放曲目需按照 SD 卡内部 MP3 音乐设置，mp3 文件夹内部设置 0001.mp3 曲目设置即可设置第一首，mp3 文件夹内部有 0255.mp3 曲目设置就可播放 255，如图所示
 
-![](./images/39.png)
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/39.png)
 
-播放模式设定：
-播放模式可以选择五种状态：播放模式选择播放即单曲循环文件夹内部第一首曲目；循环播放模式即为循环播放文件夹内部全部曲目；随机播放模式为随机播放文件夹内部曲目；暂停   是暂停当前曲目，当下一个播放命令执行时继续播放当前曲目；停止模式是停止播放。
-播放方式还可选择4中方式：上一首即为播放编号排序上一首的曲目；下一首即为播放拨号排序下一首的曲目；增大音量一次即可增大一度音量；减小音量一次即可见效一度音量。
+播放模式设定： 播放模式可以选择五种状态：播放模式选择播放即单曲循环文件夹内部第一首曲目；循环播放模式即为循环播放文件夹内部全部曲目；随机播放模式为随机播放文件夹内部曲目；暂停 是暂停当前曲目，当下一个播放命令执行时继续播放当前曲目；停止模式是停止播放。 播放方式还可选择4中方式：上一首即为播放编号排序上一首的曲目；下一首即为播放拨号排序下一首的曲目；增大音量一次即可增大一度音量；减小音量一次即可见效一度音量。
 
-![](./images/40.png)
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/40.png)
 
 ## 示例代码
-![](./images/70.png)
 
-![](./images/44.png)
-	
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/70.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/44.png)
+
 [MP3模块示例代码](http://www.haohaodada.com/show.php?id=956088)
 
 ## 原理图
-[MP3模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/%E5%8E%9F%E7%90%86%E5%9B%BE/MP3%E9%9F%B3%E4%B9%90%E6%A8%A1%E5%9D%97.pdf)
+
+[MP3模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/MP3音乐模块.pdf)
 
 ## 尺寸说明
-![](./images/01.png)
+
+![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
 
 ## 常见问题
+
