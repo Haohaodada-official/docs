@@ -1,6 +1,6 @@
 # Arduino UNO主控板
 
-![](https://github.com/Haohaodada-official/docs/tree/8c8f174001b489274023ffe0c40ceff98e174b27/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/uno.png)
+![](../../.gitbook/assets/UNO.png)
 
 ## 概述
 
@@ -29,7 +29,7 @@
 
 ## 接口说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8c8f174001b489274023ffe0c40ceff98e174b27/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/pinout.jpg)
+![](../../.gitbook/assets/pinout.png)
 
 ## 使用方式
 

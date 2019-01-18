@@ -17,13 +17,13 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/24.png)
+![](../../.gitbook/assets/arduino-24.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/78.png)
+![](../../.gitbook/assets/arduino-78.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/57.png)
+![](../../.gitbook/assets/arduino-57.png)
 
 [激光发射模块示例代码](http://www.haohaodada.com/show.php?id=955856)
 
@@ -33,7 +33,7 @@
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

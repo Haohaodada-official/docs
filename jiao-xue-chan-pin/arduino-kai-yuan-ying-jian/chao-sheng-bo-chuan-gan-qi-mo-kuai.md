@@ -17,13 +17,13 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/16.png)
+![](../../.gitbook/assets/arduino-16.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/72.png)
+![](../../.gitbook/assets/arduino-72.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/43.png)
+![](../../.gitbook/assets/arduino-43.png)
 
 [超声波模块示例代码](http://www.haohaodada.com/show.php?id=956445)
 
@@ -33,7 +33,7 @@
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/36.png)
+![](../../.gitbook/assets/arduino-36.png)
 
 ## 相关资源
 

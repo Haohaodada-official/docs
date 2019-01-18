@@ -17,13 +17,13 @@ LCD模块将LCD屏镶嵌在PCB上，与arduino主控板连接后即可轻松实�
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/28.png)
+![](../../.gitbook/assets/arduino-28.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/67.png)
+![](../../.gitbook/assets/arduino-67.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/48.png)
+![](../../.gitbook/assets/arduino-48.png)
 
 [LCD1602示例代码](http://www.haohaodada.com/show.php?id=956241)
 
@@ -33,7 +33,7 @@ LCD模块将LCD屏镶嵌在PCB上，与arduino主控板连接后即可轻松实�
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/07.png)
+![](../../.gitbook/assets/arduino-07.png)
 
 ## 相关资源
 

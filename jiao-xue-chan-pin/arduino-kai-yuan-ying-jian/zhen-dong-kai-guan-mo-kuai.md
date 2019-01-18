@@ -25,17 +25,17 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/17.png)
+![](../../.gitbook/assets/arduino-17.png)
 
 震动开关内部结构：
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/45.png)
+![](../../.gitbook/assets/arduino-45.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/79.png)
+![](../../.gitbook/assets/arduino-79.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/46.png)
+![](../../.gitbook/assets/arduino-46.png)
 
 [震动开关模块示例代码](http://www.haohaodada.com/show.php?id=956409)
 
@@ -44,8 +44,7 @@
 [震动开关模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/震动开关模块.pdf)
 
 ## 尺寸说明
-
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

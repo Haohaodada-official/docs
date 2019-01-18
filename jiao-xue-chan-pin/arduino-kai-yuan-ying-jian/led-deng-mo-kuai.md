@@ -18,13 +18,13 @@ LED灯模块根据输入信号的不同来点亮/熄灭LED，也可亮度调节�
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/02.png)
+![](../../.gitbook/assets/arduino-02.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/68.png)
+![](../../.gitbook/assets/arduino-68.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/47.png)
+![](../../.gitbook/assets/arduino-47.png)
 
 [LED灯模块示例代码](http://www.haohaodada.com/show.php?id=955480)
 
@@ -34,7 +34,7 @@ LED灯模块根据输入信号的不同来点亮/熄灭LED，也可亮度调节�
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

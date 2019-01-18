@@ -1,6 +1,6 @@
 # Arduino IO扩展板
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/扩展.png)
+![](../../.gitbook/assets/扩展.png)
 
 ## 概述
 
@@ -25,8 +25,6 @@ IO扩展板是一块与Arduino UNO兼容的扩展板。除了引出Arduino的通
   * 模块尺寸：58.0 × 53.3\(mm\)
 
 ## 接口说明
-
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/IOMAP.png)
 
 黄色端子为信号线 红色端子为电源线 绿色端子为地线
 

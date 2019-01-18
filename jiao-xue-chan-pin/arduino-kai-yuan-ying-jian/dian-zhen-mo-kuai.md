@@ -15,13 +15,13 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/27.png)
+![](../../.gitbook/assets/arduino-27.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/74.png)
+![](../../.gitbook/assets/arduino-74.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/52.png)
+![](../../.gitbook/assets/arduino-52.png)
 
 [点阵模块示例代码](http://www.haohaodada.com/show.php?id=956374)
 
@@ -31,7 +31,7 @@
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/03.png)
+![](../../.gitbook/assets/arduino-03.png)
 
 ## 相关资源
 

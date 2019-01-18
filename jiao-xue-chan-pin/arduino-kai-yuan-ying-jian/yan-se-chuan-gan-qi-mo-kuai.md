@@ -17,15 +17,11 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/19.png)
+![](../../.gitbook/assets/arduino-19.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/81.png)
-
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/53.png)
-
-[颜色传感器模块示例代码](http://www.haohaodada.com/show.php?id=956410)
+![](../../.gitbook/assets/arduino-81.png)
 
 ## 原理图
 
@@ -33,7 +29,7 @@
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

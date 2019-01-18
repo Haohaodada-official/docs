@@ -17,7 +17,7 @@ MP3模块是一款可以播放歌曲的模块，采用语音芯片YX5200进行�
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/33.png)
+![](../../.gitbook/assets/arduino-33.png)
 
 SD 卡内部 mp3 文件设置：
 
@@ -29,21 +29,21 @@ mp3 程序块有三个，分别为音量设置，指定曲目播放和播放模�
 
 音量设置一般放置在初始化中，设定音量 0~100，根据实际需要设置即可。
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/40.png)
+![](../../.gitbook/assets/arduino-40.png)
 
 指定播放曲目需按照 SD 卡内部 MP3 音乐设置，mp3 文件夹内部设置 0001.mp3 曲目设置即可设置第一首，mp3 文件夹内部有 0255.mp3 曲目设置就可播放 255，如图所示
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/39.png)
+![](../../.gitbook/assets/arduino-39.png)
 
 播放模式设定： 播放模式可以选择五种状态：播放模式选择播放即单曲循环文件夹内部第一首曲目；循环播放模式即为循环播放文件夹内部全部曲目；随机播放模式为随机播放文件夹内部曲目；暂停 是暂停当前曲目，当下一个播放命令执行时继续播放当前曲目；停止模式是停止播放。 播放方式还可选择4中方式：上一首即为播放编号排序上一首的曲目；下一首即为播放拨号排序下一首的曲目；增大音量一次即可增大一度音量；减小音量一次即可见效一度音量。
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/40.png)
+![](../../.gitbook/assets/arduino-38.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/70.png)
+![](../../.gitbook/assets/arduino-70.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/44.png)
+![](../../.gitbook/assets/arduino-44.png)
 
 [MP3模块示例代码](http://www.haohaodada.com/show.php?id=956088)
 
@@ -53,7 +53,7 @@ mp3 程序块有三个，分别为音量设置，指定曲目播放和播放模�
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

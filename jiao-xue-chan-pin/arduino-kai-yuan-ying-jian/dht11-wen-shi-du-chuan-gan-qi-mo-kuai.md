@@ -19,13 +19,13 @@ DHT11温湿度传感器可同时测量温度和湿度，它应用专用的数字
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/14.png)
+![](../../.gitbook/assets/arduino-14.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/66.png)
+![](../../.gitbook/assets/arduino-66.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/41.png)
+![](../../.gitbook/assets/arduino-41.png)
 
 [DHT11温湿度传感器模块示例代码](http://www.haohaodada.com/show.php?id=955675)
 
@@ -35,7 +35,7 @@ DHT11温湿度传感器可同时测量温度和湿度，它应用专用的数字
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

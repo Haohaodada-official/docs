@@ -21,17 +21,17 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/65.png)
+![](../../.gitbook/assets/arduino-65.png)
 
 继电器根据输入信号接通或断开电路，此模块输入信号5V，但通过继电器控制输入为12V、24V、220V等电压更大的设备（图中的220V不是唯一的）。
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/64.png)
+![](../../.gitbook/assets/arduino-64.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/90.png)
+![](../../.gitbook/assets/arduino-90.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/58.png)
+![](../../.gitbook/assets/arduino-58.png)
 
 [继电器模块示例代码](http://www.haohaodada.com/show.php?id=955860)
 
@@ -41,7 +41,7 @@
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

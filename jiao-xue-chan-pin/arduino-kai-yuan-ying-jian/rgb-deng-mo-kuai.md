@@ -17,13 +17,13 @@ RGB模块主要实现LED灯的各种颜色、亮度的控制，产生绚丽灯�
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/04.png)
+![](../../.gitbook/assets/arduino-04.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/71.png)
+![](../../.gitbook/assets/arduino-71.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/50.png)
+![](../../.gitbook/assets/arduino-50.png)
 
 [RGB灯模块示例代码](http://www.haohaodada.com/show.php?id=956133)
 
@@ -33,7 +33,7 @@ RGB模块主要实现LED灯的各种颜色、亮度的控制，产生绚丽灯�
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

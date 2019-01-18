@@ -9,7 +9,7 @@
 * 尺寸：48x24mm
 * 工作电压：5V
 * 接口类型：XH2.54mm-3P
-* 引脚定义：1-地 2-电源 3-信号
+* 引脚定义：1-地 2-电源 
 
 ## 接口说明
 
@@ -17,11 +17,13 @@
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/31.png)
+![](../../.gitbook/assets/arduino-31.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/56.png)
+![](../../.gitbook/assets/arduino-200.png)
+
+![](../../.gitbook/assets/arduino-56.png)
 
 [红外接收模块示例代码](http://www.haohaodada.com/show.php?id=956405)
 
@@ -31,7 +33,7 @@
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/01.png)
+![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题
 

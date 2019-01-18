@@ -17,11 +17,13 @@ OLED模块是一款无需背景光源，自发光式的显示模块，可通过�
 
 ## 使用方式
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/26.png)
+![](../../.gitbook/assets/arduino-26.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/49.png)
+![](../../.gitbook/assets/arduino-198.png)
+
+![](../../.gitbook/assets/arduino-49.png)
 
 [OLED模块示例代码](http://www.haohaodada.com/show.php?id=956375)
 
@@ -31,7 +33,7 @@ OLED模块是一款无需背景光源，自发光式的显示模块，可通过�
 
 ## 尺寸说明
 
-![](https://github.com/Haohaodada-official/docs/tree/87a8c0277156955860937750dd97e504bdd44d88/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/09.png)
+![](../../.gitbook/assets/arduino-09.png)
 
 ## 常见问题
 
