@@ -112,3 +112,9 @@
 
 * [主机](shu-zi-ke-xue-jia/untitled.md)
 
+## 编程语法
+
+* [Scratch](bian-cheng-yu-fa/scratch.md)
+* [Arduino](bian-cheng-yu-fa/arduino.md)
+* [Micropython](bian-cheng-yu-fa/micropython.md)
+
