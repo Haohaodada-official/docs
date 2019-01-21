@@ -11,8 +11,6 @@
 
 ## 功能说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟主板接口介绍.png)
-
 1.2510插座P16—P16； 2.2510插座P17—P17； 3.蜂鸣器—P24/配网响应；
 
 ## 使用方式
@@ -23,23 +21,23 @@
 
 时钟案例： Step 1： 将电池和WIFI模块与主板连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟-1.png)
+![](../../.gitbook/assets/shizhong-1.png)
 
 Step 2：将主板电池放入外壳中。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟-2.png)
+![](../../.gitbook/assets/shizhong-2.png)
 
 Step 3：盖上盖子完成时钟。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟-3.png)
+![](../../.gitbook/assets/shizhong-3.png)
 
 Step 4：下载程序。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟-4.png)
+![](../../.gitbook/assets/shizhong-4.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟-5.png) ![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/时钟-6.png)
+![](../../.gitbook/assets/shizhong-5.png) 
 
 [时钟案例示例代码](http://www.haohaodada.com/show.php?id=1065991)
 
