@@ -1,6 +1,6 @@
 # Arduino UNO主控板
 
-![](../../.gitbook/assets/UNO.png)
+![](../../.gitbook/assets/zhukong.png)
 
 ## 概述
 
@@ -29,7 +29,7 @@
 
 ## 接口说明
 
-![](../../.gitbook/assets/pinout.png)
+![](../../.gitbook/assets/zhukongjiwkou.png)
 
 ## 使用方式
 
