@@ -11,8 +11,6 @@
 
 ## 功能说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人主板接口介绍.png)
-
 1.排针5排—P23-P27; 2.灰度传感器—P10-P13; 3.电机MA速度控制—P21; 4.电机MA方向控制—P36; 5.电机MB速度控制—P22; 6.电机MB方向控制—P37; 7.蜂鸣器—P20; 8.红外接收—P06;
 
 ## 使用方式
@@ -23,29 +21,29 @@
 
 小车案例： Step 1:将牛眼轮与外壳连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人-1.png)
+![](../../.gitbook/assets/jiqiren-1.png)
 
 Step 2:将WIFI模块与主板相连。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人-2.png)
+![](../../.gitbook/assets/jiqiren-2.png)
 
 Step 3：将电池与主板通过锂电池接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人-3.png)
+![](../../.gitbook/assets/jiqiren-3.png)
 
 Step 4：将电机与主板通过接口连接，并且固定在外壳
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人-4.png)
+![](../../.gitbook/assets/jiqiren-4.png)
 
 Step 5：盖上外壳，机器人即组装完毕。按下电源键，电源指示灯亮，通过无线编程即可使机器人做出相应的动作。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人-5.png)
+![](../../.gitbook/assets/jiqiren-5.png)
 
 ## 示例代码
 
 此处制作一个巡线小车。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/机器人-6.png)
+![](../../.gitbook/assets/jiqiren-6.png)
 
 [小车案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5701)
 
