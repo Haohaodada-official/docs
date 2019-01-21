@@ -11,8 +11,6 @@
 
 ## 功能说明
 
-![](../../.gitbook/assets/dengguangjiekou.png)
-
 1.声音传感器—P11; 2.光敏电阻—P10; 3.蜂鸣器—配网响应;
 
 ## 使用方式

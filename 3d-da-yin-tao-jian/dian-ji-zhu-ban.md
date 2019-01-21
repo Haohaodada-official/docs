@@ -11,8 +11,6 @@
 
 ## 功能说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机主板接口介绍.png)
-
 1.红外接收—P32; 2.电机MA速度控制—P24; 3.电机MA方向控制—P04; 4.电机MB速度控制—P25； 5.电机MB方向控制—P06； 6.蜂鸣器—配网响应； 7.声音传感器—P11；
 
 ## 使用方式
@@ -23,33 +21,32 @@
 
 风扇案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-1.png)
+![](../../.gitbook/assets/dianji-1.png)
 
 Step 2：主板与电池一起圆筒形外盒的相应位置。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-2.png)
+![](../../.gitbook/assets/dianji-2.png)
 
 Step 3：将电机风扇叶与相应部件相连。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-3.png)
+![](../../.gitbook/assets/dianji-3.png)
 
 Step 4：将电机与主板的电机防反插接口MA/MB连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-4.png)
+![](../../.gitbook/assets/dianji-4.png)
 
 Step 5：将两个部件连接，风扇即组装完毕。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-5.png)
+![](../../.gitbook/assets/dianji-5.png)
 
 Step 6：按下电源键，电源指示灯亮，无线下载程序，风扇即可转动。
-
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-6.png)
+![](../../.gitbook/assets/dianji-6.png)
 
 ## 示例代码
 
 此案例使用MA接口。 使用红外遥控器，按下1键，正转；按下2键，反转；按下3键；停止。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/电机-7.png)
+![](../../.gitbook/assets/dianji-7.png)
 
 [风扇案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5695)
 
