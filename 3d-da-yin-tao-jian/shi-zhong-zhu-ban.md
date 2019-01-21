@@ -39,6 +39,8 @@ Step 4：下载程序。
 
 ![](../../.gitbook/assets/shizhong-5.png) 
 
+![](../../.gitbook/assets/shizhong-6.png) 
+
 [时钟案例示例代码](http://www.haohaodada.com/show.php?id=1065991)
 
 ## 原理图
