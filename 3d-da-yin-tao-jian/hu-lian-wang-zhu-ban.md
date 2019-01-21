@@ -11,8 +11,6 @@
 
 ## 功能说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/互联网主板接口介绍.png)
-
 1.排母P27—P27; 2.排母P13—P13; 3.蜂鸣器—P20/配网响应;
 
 ## 使用方式
@@ -23,23 +21,23 @@
 
 互联网案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/互联网-1.png)
+![](../../.gitbook/assets/hulianwang-1.png)
 
 Step 2：主板与电池一起放入外壳的相应位置。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/互联网-2.png)
+![](../../.gitbook/assets/hulianwang-2.png)
 
 Step 3：盖上顶盖，互联网套件即组装完毕。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/互联网-3.png)
+![](../../.gitbook/assets/hulianwang-3.png)
 
 Step 4：按下电源键，电源指示灯亮，通过无线下载程序后，OLED屏即可显示。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/互联网-4.png)
+![](../../.gitbook/assets/hulianwang-4.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/互联网-5.png)
+![](../../.gitbook/assets/hulianwang-5.png)
 
 [互联网案例示例代码](http://www.haohaodada.com/show.php?id=1066004)
 
