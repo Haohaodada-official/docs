@@ -1,6 +1,6 @@
 # Arduino IO扩展板
 
-![](../../.gitbook/assets/扩展.png)
+![](../../.gitbook/assets/kuozhan.png)
 
 ## 概述
 
