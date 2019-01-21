@@ -29,7 +29,7 @@
 
 ## 接口说明
 
-![](../../.gitbook/assets/zhukongjiekou.png)
+![](../../.gitbook/assets/zhukong-1.png)
 
 ## 使用方式
 
