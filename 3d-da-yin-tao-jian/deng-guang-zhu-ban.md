@@ -11,7 +11,7 @@
 
 ## 功能说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/灯光主板接口介绍.png)
+![](../../.gitbook/assets/dengguangjiekou.png)
 
 1.声音传感器—P11; 2.光敏电阻—P10; 3.蜂鸣器—配网响应;
 
@@ -23,23 +23,23 @@
 
 灯光案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/灯光-1.png)
+![](../../.gitbook/assets/dengguang-1.png)
 
 Step 2：主板与电池一起放在外壳的相应位置，按下电源键。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/灯光-2.png)
+![](../../.gitbook/assets/dengguang-2.png)
 
 Step 3：盖上顶盖，即组装完毕。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/灯光-3.png)
+![](../../.gitbook/assets/dengguang-3.png)
 
 Step 4：通过无线下载程序，RGB彩灯即能根据设置好的程序亮起。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/灯光-4.png)
+![](../../.gitbook/assets/dengguang-4.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/灯光-5.png)
+![](../../.gitbook/assets/dengguang-5.png)
 
 [灯光案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5700)
 
