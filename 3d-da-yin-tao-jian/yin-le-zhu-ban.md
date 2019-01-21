@@ -11,8 +11,6 @@
 
 ## 功能说明
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐主板接口介绍.png)
-
 1.排针7排—P20-P26; 2.红外接收—P04; 3.蜂鸣器—配网响应; 4.TF卡—音乐文件后缀支持.mp3 及.wav 后缀名，内部放置音乐文件命名必须以 0001 开头; 5.mp3借口—P05; 6.插座—喇叭;
 
 ## 使用方式
@@ -23,31 +21,31 @@
 
 音乐案例： Step 1：将喇叭与主板通过接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-1.png)
+![](../../.gitbook/assets/yinyue-1.png)
 
 Step 2：将SD卡插入卡槽。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-2.png)
+![](../../.gitbook/assets/yinyue-2.png)
 
 Step 3：将电池与主板通过锂电池接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-3.png)
+![](../../.gitbook/assets/yinyue-3.png)
 
 Step 4：将wifi模块与主板通过排母接口连接。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-4.png)
+![](../../.gitbook/assets/yinyue-4.png)
 
 Step 5：将主板，电池，喇叭放在外壳的相应位置。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-5.png)
+![](../../.gitbook/assets/yinyue-5.png)
 
 Step 6：盖上顶盖，音乐盒即组装完毕。按下电源键，电源指示灯亮，无线下载程序，即可播放音乐。
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-6.png)
+![](../../.gitbook/assets/yinyue-6.png)
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/8e6f60f2c3655156db0b43818e1b94f656a31775/3d-da-yin-tao-jian/images/音乐-7.png)
+![](../../.gitbook/assets/yinyue-7.png)
 
 [音乐案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5698)
 
