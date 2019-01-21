@@ -51,7 +51,7 @@ Step 6：盖上顶盖，音乐盒即组装完毕。按下电源键，电源指�
 
 ## 原理图
 
-[音乐主板原理图](yin-le-zhu-ban.md)
+[音乐主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E9%9F%B3%E4%B9%90%E4%B8%BB%E6%9D%BF.pdf)
 
 ## 常见问题
 

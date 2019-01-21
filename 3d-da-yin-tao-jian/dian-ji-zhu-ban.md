@@ -52,7 +52,7 @@ Step 6：按下电源键，电源指示灯亮，无线下载程序，风扇即�
 
 ## 原理图
 
-[电机主板原理图](dian-ji-zhu-ban.md)
+[电机主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E7%94%B5%E6%9C%BA%E4%B8%BB%E6%9D%BF.pdf)
 
 ## 常见问题
 

@@ -45,7 +45,7 @@ Step 4：下载程序。
 
 ## 原理图
 
-[时钟主板原理图](shi-zhong-zhu-ban.md)
+[时钟主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E6%97%B6%E9%92%9F%E4%B8%BB%E6%9D%BF.pdf)
 
 ## 常见问题
 

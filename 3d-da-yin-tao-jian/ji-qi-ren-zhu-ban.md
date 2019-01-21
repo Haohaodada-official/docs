@@ -49,7 +49,7 @@ Step 5：盖上外壳，机器人即组装完毕。按下电源键，电源指�
 
 ## 原理图
 
-[机器人主板原理图](ji-qi-ren-zhu-ban.md)
+[机器人主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BB%E6%9D%BF.pdf)
 
 ## 常见问题
 

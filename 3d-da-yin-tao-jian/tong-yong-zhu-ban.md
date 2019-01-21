@@ -49,7 +49,7 @@ Step 5：整体拼装并在蓝色区加水，下载程序即可加湿。
 
 ## 原理图
 
-[通用主板原理图](tong-yong-zhu-ban.md)
+[通用主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E9%80%9A%E7%94%A8%E4%B8%BB%E6%9D%BF.pdf)
 
 ## 常见问题
 
