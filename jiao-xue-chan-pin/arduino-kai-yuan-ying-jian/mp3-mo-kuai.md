@@ -17,7 +17,7 @@ MP3模块是一款可以播放歌曲的模块，采用语音芯片YX5200进行�
 
 ## 使用方式
 
-![](../../.gitbook/assets/arduino-33.png)
+![](https://github.com/Haohaodada-official/docs/tree/18bb63875067e7be35884f09a3111e6c5fb4cc8c/.gitbook/assets/arduino-33.png)
 
 SD 卡内部 mp3 文件设置：
 
@@ -53,7 +53,7 @@ mp3 程序块有三个，分别为音量设置，指定曲目播放和播放模�
 
 ## 尺寸说明
 
-![](../../.gitbook/assets/arduino-01.png)
+![](../../.gitbook/assets/arduino-01%20%282%29.png)
 
 ## 常见问题
 

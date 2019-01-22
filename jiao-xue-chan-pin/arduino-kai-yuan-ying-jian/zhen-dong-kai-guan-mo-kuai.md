@@ -44,6 +44,7 @@
 [震动开关模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/震动开关模块.pdf)
 
 ## 尺寸说明
+
 ![](../../.gitbook/assets/arduino-01.png)
 
 ## 常见问题

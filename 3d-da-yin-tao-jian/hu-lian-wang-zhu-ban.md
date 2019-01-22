@@ -21,29 +21,29 @@
 
 互联网案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/hulianwang-1.png)
+![](../.gitbook/assets/hulianwang-1.png)
 
 Step 2：主板与电池一起放入外壳的相应位置。
 
-![](../../.gitbook/assets/hulianwang-2.png)
+![](../.gitbook/assets/hulianwang-2.png)
 
 Step 3：盖上顶盖，互联网套件即组装完毕。
 
-![](../../.gitbook/assets/hulianwang-3.png)
+![](../.gitbook/assets/hulianwang-3.png)
 
 Step 4：按下电源键，电源指示灯亮，通过无线下载程序后，OLED屏即可显示。
 
-![](../../.gitbook/assets/hulianwang-4.png)
+![](../.gitbook/assets/hulianwang-4.png)
 
 ## 示例代码
 
-![](../../.gitbook/assets/hulianwang-5.png)
+![](../.gitbook/assets/hulianwang-5.png)
 
 [互联网案例示例代码](http://www.haohaodada.com/show.php?id=1066004)
 
 ## 原理图
 
-[互联网主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BB%E6%9D%BF.pdf)
+[互联网主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/互联网主板.pdf)
 
 ## 常见问题
 

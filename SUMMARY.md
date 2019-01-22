@@ -4,7 +4,22 @@
 
 ## 在线入门课程
 
-* [Scratch编程入门](zai-xian-ru-men-ke-cheng/scratch-primer.md)
+* [Scratch编程入门](zai-xian-ru-men-ke-cheng/scratch-primer/README.md)
+  * [第1课 喵喵初体验](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-10.md)
+  * [第2课 喵喵背古诗](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-9.md)
+  * [第3课 喵喵游西湖](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-8.md)
+  * [第4课 喵喵学做操](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-7.md)
+  * [第5课 喵喵学英语](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-6.md)
+  * [第6课 喵喵演奏会](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-5.md)
+  * [第7课 喵喵大抽奖](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-4.md)
+  * [第8课 喵喵运动会](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-3.md)
+  * [第9课 喵喵学画画](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-2.md)
+  * [第10课 喵喵出题目](zai-xian-ru-men-ke-cheng/scratch-primer/untitled-1.md)
+  * [阅读材料一：好好搭搭Scratch中文离线版的使用](zai-xian-ru-men-ke-cheng/scratch-primer/untitled.md)
+  * [阅读材料二：“好好搭搭”网站中的作品管理](zai-xian-ru-men-ke-cheng/scratch-primer/yue-du-cai-liao-er-hao-hao-da-da-wang-zhan-zhong-de-zuo-pin-guan-li.md)
+  * [阅读材料三：使用PowerPoint制作中文文字角色](zai-xian-ru-men-ke-cheng/scratch-primer/yue-du-cai-liao-san-shi-yong-powerpoint-zhi-zuo-zhong-wen-wen-zi-jiao-se.md)
+  * [阅读材料四：Scratch中的指令类型](zai-xian-ru-men-ke-cheng/scratch-primer/yue-du-cai-liao-si-scratch-zhong-de-zhi-ling-lei-xing.md)
+  * [阅读材料五：Scratch中的三种程序结构](zai-xian-ru-men-ke-cheng/scratch-primer/yue-du-cai-liao-wu-scratch-zhong-de-san-zhong-cheng-xu-jie-gou.md)
 * [基于Scratch的Arduino智能造物入门](zai-xian-ru-men-ke-cheng/scratch-arduino-primer.md)
 * [WU-Link智能造物入门](zai-xian-ru-men-ke-cheng/wulink-primer.md)
 

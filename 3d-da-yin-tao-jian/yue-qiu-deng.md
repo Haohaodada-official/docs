@@ -10,29 +10,29 @@ WuLink月球灯可随时随地多终端调控调色、调光、定时关闭等�
 
 ## 使用方式
 
-![](../../.gitbook/assets/moon-1.png) 将月球放在底座上，扫描底座二维码获取mac地址，即可通过haohaodada.com中的moonlight编程界面进行编程。
+![](../.gitbook/assets/moon-1.png) 将月球放在底座上，扫描底座二维码获取mac地址，即可通过haohaodada.com中的moonlight编程界面进行编程。
 
 ## 扩展玩法
 
-![](../../.gitbook/assets/moon-2.png)
+![](../.gitbook/assets/moon-2.png)
 
 使用遥控器调节灯光-ok键开灯，0键关灯，1~7键调节单色光，8键彩色呼吸灯，9键单色呼吸灯。
 
-![](../../.gitbook/assets/moon-3.png)
+![](../.gitbook/assets/moon-3.png)
 
 使用小程序调节灯光，定时关闭。
 
 ## 示例程序
 
-![](../../.gitbook/assets/moon-4.png)
+![](../.gitbook/assets/moon-4.png)
 
 [红外遥控示例代码](http://www.haohaodada.com/3dmoon/index.php?id=3129)
 
-![](../../.gitbook/assets/moon-5.png)
+![](../.gitbook/assets/moon-5.png)
 
 [触摸控制示例代码](http://www.haohaodada.com/3dmoon/index.php?id=3130)
 
-![](../../.gitbook/assets/moon-6.png)
+![](../.gitbook/assets/moon-6.png)
 
 [小程序控制示例代码](http://www.haohaodada.com/3dmoon/index.php?id=3131)
 

@@ -21,29 +21,29 @@
 
 灯光案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/dengguang-1.png)
+![](../.gitbook/assets/dengguang-1.png)
 
 Step 2：主板与电池一起放在外壳的相应位置，按下电源键。
 
-![](../../.gitbook/assets/dengguang-2.png)
+![](../.gitbook/assets/dengguang-2.png)
 
 Step 3：盖上顶盖，即组装完毕。
 
-![](../../.gitbook/assets/dengguang-3.png)
+![](../.gitbook/assets/dengguang-3.png)
 
 Step 4：通过无线下载程序，RGB彩灯即能根据设置好的程序亮起。
 
-![](../../.gitbook/assets/dengguang-4.png)
+![](../.gitbook/assets/dengguang-4.png)
 
 ## 示例代码
 
-![](../../.gitbook/assets/dengguang-5.png)
+![](../.gitbook/assets/dengguang-5.png)
 
 [灯光案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5700)
 
 ## 原理图
 
-[灯光主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E7%81%AF%E5%85%89%E4%B8%BB%E6%9D%BF.pdf)
+[灯光主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/灯光主板.pdf)
 
 ## 常见问题
 

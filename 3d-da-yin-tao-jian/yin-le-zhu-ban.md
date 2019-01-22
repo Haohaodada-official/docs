@@ -21,37 +21,37 @@
 
 音乐案例： Step 1：将喇叭与主板通过接口连接。
 
-![](../../.gitbook/assets/yinyue-1.png)
+![](../.gitbook/assets/yinyue-1.png)
 
 Step 2：将SD卡插入卡槽。
 
-![](../../.gitbook/assets/yinyue-2.png)
+![](../.gitbook/assets/yinyue-2.png)
 
 Step 3：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/yinyue-3.png)
+![](../.gitbook/assets/yinyue-3.png)
 
 Step 4：将wifi模块与主板通过排母接口连接。
 
-![](../../.gitbook/assets/yinyue-4.png)
+![](../.gitbook/assets/yinyue-4.png)
 
 Step 5：将主板，电池，喇叭放在外壳的相应位置。
 
-![](../../.gitbook/assets/yinyue-5.png)
+![](../.gitbook/assets/yinyue-5.png)
 
 Step 6：盖上顶盖，音乐盒即组装完毕。按下电源键，电源指示灯亮，无线下载程序，即可播放音乐。
 
-![](../../.gitbook/assets/yinyue-6.png)
+![](../.gitbook/assets/yinyue-6.png)
 
 ## 示例代码
 
-![](../../.gitbook/assets/yinyue-7.png)
+![](../.gitbook/assets/yinyue-7.png)
 
 [音乐案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5698)
 
 ## 原理图
 
-[音乐主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E9%9F%B3%E4%B9%90%E4%B8%BB%E6%9D%BF.pdf)
+[音乐主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/音乐主板.pdf)
 
 ## 常见问题
 

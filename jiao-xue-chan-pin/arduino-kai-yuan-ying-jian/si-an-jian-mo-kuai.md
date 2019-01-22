@@ -33,7 +33,7 @@
 
 ## 尺寸说明
 
-![](../../.gitbook/assets/arduino-01.png)
+![](../../.gitbook/assets/arduino-01%20%281%29.png)
 
 ## 常见问题
 

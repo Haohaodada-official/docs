@@ -21,35 +21,35 @@
 
 小车案例： Step 1:将牛眼轮与外壳连接。
 
-![](../../.gitbook/assets/jiqiren-1.png)
+![](../.gitbook/assets/jiqiren-1.png)
 
 Step 2:将WIFI模块与主板相连。
 
-![](../../.gitbook/assets/jiqiren-2.png)
+![](../.gitbook/assets/jiqiren-2.png)
 
 Step 3：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/jiqiren-3.png)
+![](../.gitbook/assets/jiqiren-3.png)
 
 Step 4：将电机与主板通过接口连接，并且固定在外壳
 
-![](../../.gitbook/assets/jiqiren-4.png)
+![](../.gitbook/assets/jiqiren-4.png)
 
 Step 5：盖上外壳，机器人即组装完毕。按下电源键，电源指示灯亮，通过无线编程即可使机器人做出相应的动作。
 
-![](../../.gitbook/assets/jiqiren-5.png)
+![](../.gitbook/assets/jiqiren-5.png)
 
 ## 示例代码
 
 此处制作一个巡线小车。
 
-![](../../.gitbook/assets/jiqiren-6.png)
+![](../.gitbook/assets/jiqiren-6.png)
 
 [小车案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5701)
 
 ## 原理图
 
-[机器人主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BB%E6%9D%BF.pdf)
+[机器人主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/机器人主板.pdf)
 
 ## 常见问题
 

@@ -18,11 +18,12 @@
 ## 使用方式
 
 ![](../../.gitbook/assets/arduino-15.png)
+
 ## 示例代码
 
 ![](../../.gitbook/assets/arduino-87.png)
 
-![](../../.gitbook/assets/arduino-46.png)
+![](../../.gitbook/assets/arduino-46%20%281%29.png)
 
 [倾角传感器模块示例代码](http://www.haohaodada.com/show.php?id=956409)
 
