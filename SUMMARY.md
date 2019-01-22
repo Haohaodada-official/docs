@@ -6,7 +6,6 @@
 
 * [浏览器](hao-hao-da-da-ping-tai/lan-qi.md)
 * [插件](hao-hao-da-da-ping-tai/cha-jian.md)
-* [帐号](hao-hao-da-da-ping-tai/zhang-hao.md)
 * [离线版](hao-hao-da-da-ping-tai/li-xian-ban/README.md)
   * [好好搭搭Scratch Arduino](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch-arduino.md)
   * [好好搭搭Scratch2.0](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch2.0.md)
