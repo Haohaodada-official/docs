@@ -10,6 +10,7 @@
 * [离线版](hao-hao-da-da-ping-tai/li-xian-ban/README.md)
   * [好好搭搭Scratch Arduino](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch-arduino.md)
   * [好好搭搭Scratch2.0](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch2.0.md)
+* [远程协助软件](hao-hao-da-da-ping-tai/yuan-cheng-xie-zhu-ruan-jian.md)
 
 ## 在线入门课程
 
