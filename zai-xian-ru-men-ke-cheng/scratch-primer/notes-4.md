@@ -1,32 +1,22 @@
 # 阅读材料四：Scratch中的指令类型
 
-
-
 Scratch中的指令按不同功能及特性进行了分类，并且使用不同的颜色和外形来加以区别。只要掌握Scratch指令在外观上的这些规律，就能极大地方便编写程序脚本。
 
-
-
-### 一、指令的所属类别
+## 一、指令的所属类别
 
 在Scratch中，根据功能分为动作、外观、声音等十个类别的指令，每个类别的颜色不同，可以根据颜色找到所需指令的类别。其中，“更多模块”类别用于创建新功能模块和添加外接硬件指令。
 
-![](../../.gitbook/assets/scratch14-1.png)
-
-
+![](https://github.com/Haohaodada-official/docs/tree/8a7bce8f9269f3537909f64d03ad2a1ddd80af30/.gitbook/assets/scratch14-1.png)
 
 [单击此处](http://haohaodada.com/video/a21401.php)或者扫描下方二维码可以观看以上内容相关的视频。
 
-* ![](../../.gitbook/assets/a21401.png) 
+* ![](https://github.com/Haohaodada-official/docs/tree/8a7bce8f9269f3537909f64d03ad2a1ddd80af30/.gitbook/assets/a21401.png) 
 
-
-
-
-
-### 二、指令的五种类型
+## 二、指令的五种类型
 
 Scratch中的指令共有五种形状，代表着不同类型的指令。
 
-![](../../.gitbook/assets/scratch14-2.png)
+![](https://github.com/Haohaodada-official/docs/tree/8a7bce8f9269f3537909f64d03ad2a1ddd80af30/.gitbook/assets/scratch14-2.png)
 
 **命令指令：**
 
@@ -46,11 +36,9 @@ Scratch中最常见的指令类型。指令上方有缺口，下方有凸起，�
 
 **控制指令：**
 
-​    指令上方有缺口，下方凸起，中间开口可以容纳其他指令在它的内部拼接。通常用于判断结构和循环结构，根据具体需求来编写并执行控制指令中间的脚本块。
-
-
+​ 指令上方有缺口，下方凸起，中间开口可以容纳其他指令在它的内部拼接。通常用于判断结构和循环结构，根据具体需求来编写并执行控制指令中间的脚本块。
 
 [单击此处](http://haohaodada.com/video/a21402.php)或者扫描下方二维码观看以上内容相关的视频。
 
-* ![](../../.gitbook/assets/a21402.png) 
+* ![](https://github.com/Haohaodada-official/docs/tree/8a7bce8f9269f3537909f64d03ad2a1ddd80af30/.gitbook/assets/a21402.png) 
 
