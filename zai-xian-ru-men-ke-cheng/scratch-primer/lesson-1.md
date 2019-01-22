@@ -6,7 +6,7 @@ Scratch是美国麻省理工学院为少年儿童设计的图形化编程软件�
 
 [单击此处](http://haohaodada.com/video/a20101.php)或者扫描下方二维码可以观看相关的视频。
 
-* ![img](../../.gitbook/assets/a20101.png) 
+* ![PNG](../../.gitbook/assets/a20101.png) 
 
 Scratch默认的角色是一只小猫，它的名字叫“喵喵”！它将陪伴我们一起学习Scratch编程。
 
