@@ -1,6 +1,6 @@
 # WU-Link
 
-![](../.gitbook/assets/wulink.jpeg)
+* ![](../.gitbook/assets/wulink.jpeg)
 
 ## 概述
 
