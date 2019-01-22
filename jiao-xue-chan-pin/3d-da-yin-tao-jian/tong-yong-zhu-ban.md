@@ -21,29 +21,29 @@
 
 加湿器案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](../.gitbook/assets/tongyong-1.png)
+![](../../.gitbook/assets/tongyong-1.png)
 
 Step 2：将加湿器模块主板与通用主板P22/P23相连。
 
-![](../.gitbook/assets/tongyong-2.png)
+![](../../.gitbook/assets/tongyong-2.png)
 
 Step 3：将加湿器模块与外壳连接。
 
-![](../.gitbook/assets/tongyong-3.png)
+![](../../.gitbook/assets/tongyong-3.png)
 
 Step 4：将加湿器模块连接并将主板放到合适位置。
 
-![](../.gitbook/assets/tongyong-4.png)
+![](../../.gitbook/assets/tongyong-4.png)
 
 Step 5：整体拼装并在蓝色区加水，下载程序即可加湿。
 
-![](../.gitbook/assets/tongyong-5.png)
+![](../../.gitbook/assets/tongyong-5.png)
 
 ## 示例代码
 
 此案例使用P22外接口。 使用scratch编程界面给物联网发送指令，poweron:加湿器开；poweroff:加湿器关。
 
-![](../.gitbook/assets/tongyong-6.png)
+![](../../.gitbook/assets/tongyong-6.png)
 
 [加湿器案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5697)
 

@@ -21,25 +21,25 @@
 
 时钟案例： Step 1： 将电池和WIFI模块与主板连接。
 
-![](../.gitbook/assets/shizhong-1.png)
+![](../../.gitbook/assets/shizhong-1.png)
 
 Step 2：将主板电池放入外壳中。
 
-![](../.gitbook/assets/shizhong-2.png)
+![](../../.gitbook/assets/shizhong-2.png)
 
 Step 3：盖上盖子完成时钟。
 
-![](../.gitbook/assets/shizhong-3.png)
+![](../../.gitbook/assets/shizhong-3.png)
 
 Step 4：下载程序。
 
-![](../.gitbook/assets/shizhong-4.png)
+![](../../.gitbook/assets/shizhong-4.png)
 
 ## 示例代码
 
-![](../.gitbook/assets/shizhong-5.png)
+![](../../.gitbook/assets/shizhong-5.png)
 
-![](../.gitbook/assets/shizhong-6.png)
+![](../../.gitbook/assets/shizhong-6.png)
 
 [时钟案例示例代码](http://www.haohaodada.com/show.php?id=1065991)
 

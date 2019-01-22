@@ -2,6 +2,15 @@
 
 * [FAQ](README.md)
 
+## 好好搭搭平台
+
+* [浏览器](hao-hao-da-da-ping-tai/lan-qi.md)
+* [插件](hao-hao-da-da-ping-tai/cha-jian.md)
+* [帐号](hao-hao-da-da-ping-tai/zhang-hao.md)
+* [离线版](hao-hao-da-da-ping-tai/li-xian-ban/README.md)
+  * [好好搭搭Scratch Arduino](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch-arduino.md)
+  * [好好搭搭Scratch2.0](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch2.0.md)
+
 ## 在线入门课程
 
 * [Scratch编程入门](zai-xian-ru-men-ke-cheng/scratch-primer/README.md)
@@ -122,7 +131,20 @@
   * [音频录放模块](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/yin-pin-lu-fang-mo-kuai.md)
 * [WU-Link](jiao-xue-chan-pin/wu-link.md)
 * [PythonBoard](jiao-xue-chan-pin/pythonboard.md)
-* [掌控](jiao-xue-chan-pin/hand-bit.md)
+* [掌控](jiao-xue-chan-pin/hand-bit/README.md)
+  * [掌控板刷好搭固件](jiao-xue-chan-pin/hand-bit/zhang-kong-ban-shua-hao-da-gu-jian.md)
+  * [掌控扩展板](jiao-xue-chan-pin/hand-bit/zhang-kong-kuo-zhan-ban.md)
+  * [掌控+](jiao-xue-chan-pin/hand-bit/zhang-kong-+.md)
+* [3D打印套件](jiao-xue-chan-pin/3d-da-yin-tao-jian/README.md)
+  * [时钟主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/shi-zhong-zhu-ban.md)
+  * [音乐主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/yin-le-zhu-ban.md)
+  * [通用主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/tong-yong-zhu-ban.md)
+  * [机器人主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/ji-qi-ren-zhu-ban.md)
+  * [互联网主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/hu-lian-wang-zhu-ban.md)
+  * [电机主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/dian-ji-zhu-ban.md)
+  * [灯光主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/deng-guang-zhu-ban.md)
+  * [月球灯](jiao-xue-chan-pin/3d-da-yin-tao-jian/yue-qiu-deng.md)
+* [科学探究套件](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian.md)
 
 ## 造物产品
 
@@ -134,21 +156,6 @@
 * [CoreLink-WiFi](zao-wu-chan-pin/corelink-wifi.md)
 * [CoreLink-BLE](zao-wu-chan-pin/corelink-ble.md)
 * [CoreLink-Flash](zao-wu-chan-pin/corelink-flash.md)
-
-## 3D打印套件
-
-* [月球灯](3d-da-yin-tao-jian/yue-qiu-deng.md)
-* [灯光主板](3d-da-yin-tao-jian/deng-guang-zhu-ban.md)
-* [电机主板](3d-da-yin-tao-jian/dian-ji-zhu-ban.md)
-* [互联网主板](3d-da-yin-tao-jian/hu-lian-wang-zhu-ban.md)
-* [时钟主板](3d-da-yin-tao-jian/shi-zhong-zhu-ban.md)
-* [音乐主板](3d-da-yin-tao-jian/yin-le-zhu-ban.md)
-* [通用主板](3d-da-yin-tao-jian/tong-yong-zhu-ban.md)
-* [机器人主板](3d-da-yin-tao-jian/ji-qi-ren-zhu-ban.md)
-
-## 数字科学家
-
-* [主机](shu-zi-ke-xue-jia/untitled.md)
 
 ## 编程语法
 

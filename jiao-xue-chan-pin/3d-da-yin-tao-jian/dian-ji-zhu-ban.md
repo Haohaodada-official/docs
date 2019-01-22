@@ -21,31 +21,31 @@
 
 风扇案例： Step 1：将电池与主板通过锂电池接口连接。
 
-![](../.gitbook/assets/dianji-1.png)
+![](../../.gitbook/assets/dianji-1.png)
 
 Step 2：主板与电池一起圆筒形外盒的相应位置。
 
-![](../.gitbook/assets/dianji-2.png)
+![](../../.gitbook/assets/dianji-2.png)
 
 Step 3：将电机风扇叶与相应部件相连。
 
-![](../.gitbook/assets/dianji-3.png)
+![](../../.gitbook/assets/dianji-3.png)
 
 Step 4：将电机与主板的电机防反插接口MA/MB连接。
 
-![](../.gitbook/assets/dianji-4.png)
+![](../../.gitbook/assets/dianji-4.png)
 
 Step 5：将两个部件连接，风扇即组装完毕。
 
-![](../.gitbook/assets/dianji-5.png)
+![](../../.gitbook/assets/dianji-5.png)
 
-Step 6：按下电源键，电源指示灯亮，无线下载程序，风扇即可转动。 ![](../.gitbook/assets/dianji-6.png)
+Step 6：按下电源键，电源指示灯亮，无线下载程序，风扇即可转动。 ![](../../.gitbook/assets/dianji-6.png)
 
 ## 示例代码
 
 此案例使用MA接口。 使用红外遥控器，按下1键，正转；按下2键，反转；按下3键；停止。
 
-![](../.gitbook/assets/dianji-7.png)
+![](../../.gitbook/assets/dianji-7.png)
 
 [风扇案例示例代码](http://www.haohaodada.com/wulink-nano/index.php?id=5695)
 
