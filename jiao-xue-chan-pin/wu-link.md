@@ -6,7 +6,7 @@
 
 WU-Link 是基于云技术的一款物联网开发板，集云编程、无线下载、物联网通讯功能于一 体，既能实现目前Arduino 常见应用，也能进行物联网应用开发。
 
-![](https://github.com/Haohaodada-official/docs/tree/5791f50dd2ecea88203e9b5dae73f8265f3a8bc1/.gitbook/assets/bb00.png)
+![](../.gitbook/assets/bb00.png)
 
 WU-Link 板载了亮度、温度、电子罗盘、加速度计、按键、蜂鸣器、红外接收、红外发射、 7×24颗LED、震动反馈。
 
