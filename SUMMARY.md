@@ -29,6 +29,7 @@
   * [阅读材料三：使用PowerPoint制作中文文字角色](zai-xian-ru-men-ke-cheng/scratch-primer/notes-3.md)
   * [阅读材料四：Scratch中的指令类型](zai-xian-ru-men-ke-cheng/scratch-primer/notes-4.md)
   * [阅读材料五：Scratch中的三种程序结构](zai-xian-ru-men-ke-cheng/scratch-primer/notes-5.md)
+* [基于Scratch的传感器板编程](zai-xian-ru-men-ke-cheng/ji-yu-scratch-de-chuan-gan-qi-ban-bian-cheng.md)
 * [基于Scratch的Arduino智能造物入门](zai-xian-ru-men-ke-cheng/scratch-arduino-primer/README.md)
   * [第1课  初识智能造物神器——Nova](zai-xian-ru-men-ke-cheng/scratch-arduino-primer/lesson-1.md)
   * [第2课  在Nova中使用单色LED——模拟红绿灯](zai-xian-ru-men-ke-cheng/scratch-arduino-primer/lesson-2.md)
