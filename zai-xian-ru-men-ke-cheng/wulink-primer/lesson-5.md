@@ -24,7 +24,7 @@ WU-Link在主板上集成的加速度计型号是“MMA7660FC（如下图所示�
 
 ###“检测到摇晃”指令：
 
-![](../../.gitbook/assets/wulink5-a.png )   
+![](../../.gitbook/assets/wulink5-a.png)   
 
 属于“板载”类别指令；可以检测WU-Link有没有被晃动。如果检测到晃动，输出值为“1”；否则为“0”。
 
@@ -32,7 +32,7 @@ WU-Link在主板上集成的加速度计型号是“MMA7660FC（如下图所示�
 
 ###“读板载加速度计”指令：
 
-![](../../.gitbook/assets/wulink5-b.png )  
+![](../../.gitbook/assets/wulink5-b.png)  
 
 属于“板载”类别指令；可以读取WU-Link在左右(X)、垂直(Y)、前后(Z)三个方向上的加速度数值，可以更加精确的获取WU-Link的运动状态。
 

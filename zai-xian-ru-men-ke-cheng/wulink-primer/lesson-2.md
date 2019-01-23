@@ -23,7 +23,7 @@ WU-Link面板中央就有一块LED点阵屏（如下图所示），它是由7x24
 
 ###“点阵屏设置”指令：
 
-![](../../.gitbook/assets/wulink2-a.png )
+![](../../.gitbook/assets/wulink2-a.png)
 
 属于“点阵屏”类别指令；使用这个指令可以设置WU-Link板载点阵屏显示的图案。
 
