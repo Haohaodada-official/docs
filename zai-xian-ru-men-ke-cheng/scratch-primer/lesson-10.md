@@ -1,6 +1,4 @@
-# 第10课  喵喵出题目
-
-
+# 第10课 喵喵出题目
 
 班级即将举行口算竞赛，为此“喵喵”想要制作一个口算训练程序给大家练习，我们一起来帮助它吧！
 
@@ -8,57 +6,43 @@
 
 ![](../../.gitbook/assets/scratch10-0.png)
 
-
 ## 创意构思
 
 本课的范例作品是一个加法口算训练程序，先随机出题，然后等待用户输入答案，再判断输入的答案是否正确。
-
-
 
 要完成本课的创意构思，需要了解以下的新指令：
 
 1.
 
-![](../../.gitbook/assets/scratch10-1.png)  
+![](../../.gitbook/assets/scratch10-1.png)
 
 属于“数据”类别工具按钮，单击这个按钮后，可以通过打开的“新建变量”对话框创建变量。
 
 创建变量以后，在“指令区”的“数据”类别中，会增加一些用于控制变量的指令，同时在舞台的左上角默认会显示变量对象。该变量对象左边是变量名，右边是变量当前的值。
 
-
-
 [单击此处](http://haohaodada.com/video/a21001.php)或者扫描下方二维码可以观看以上内容相关的视频。
 
-![](../../.gitbook/assets/a21001.png) 
+![](../../.gitbook/assets/a21001.png)
 
+#### 试一试
 
-
- #### 试一试
-
- 双击舞台中的变量对象，你发现了什么？？
+双击舞台中的变量对象，你发现了什么？？
 
 [单击此处](http://haohaodada.com/video/a21002.php)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/a21002.png) 
-
-   
-
+![](../../.gitbook/assets/a21002.png)
 
 2.
 
-![](../../.gitbook/assets/scratch10-2.png) 
+![](../../.gitbook/assets/scratch10-2.png)
 
 属于“数据”类别指令，为一个变量赋值；由第一个下拉列表参数确定需要赋值的变量，第二个参数确定这个变量具体设定的值。
 
-
-
 3.
 
-![](../../.gitbook/assets/scratch10-3.png) 
+![](../../.gitbook/assets/scratch10-3.png)
 
 属于“数据”类别指令，每次新建一个变革，都会增加相应变量的指令。通过该指令，可以获取变量当前的值。
-
-
 
 ### Scratch中的变量
 
@@ -74,25 +58,19 @@
 
 指令来获取它的变量值。
 
-
-
 [单击此处](http://haohaodada.com/video/a21003.php)或者扫描下方二维码可以观看以上内容相关的视频。
 
-![](../../.gitbook/assets/a21003.png) 
+![](../../.gitbook/assets/a21003.png)
 
+#### 想一想
 
-
- #### 想一想
-
- 下列表格中的字符，在Scratch中都可以作为新建变量名。但有些作为变量名不太合适，容易混淆。请在你认为最合适的变量名下方的表格中打“**√**”。
+下列表格中的字符，在Scratch中都可以作为新建变量名。但有些作为变量名不太合适，容易混淆。请在你认为最合适的变量名下方的表格中打“**√**”。
 
 ![](../../.gitbook/assets/scratch10-3b.png)
 
 [单击此处](http://haohaodada.com/video/a21004.php)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/a21004.png) 
-
-   
+![](../../.gitbook/assets/a21004.png)
 
 5.
 
@@ -100,38 +78,30 @@
 
 ![](../../.gitbook/assets/scratch10-5.png)
 
-![](../../.gitbook/assets/scratch10-6.png) 
+![](../../.gitbook/assets/scratch10-6.png)
 
 属于“数字和逻辑关系”类别指令，分别用于比较指令左边的参数与右边的参数之间是否存在相等、小于或大于的关系。
 
-
-
 6.
 
-![](../../.gitbook/assets/scratch10-7.png) 
+![](../../.gitbook/assets/scratch10-7.png)
 
 * 属于“侦测”类别指令，能够显示提示文本并等待用户通过键盘输入，指令的参数就是显示的提示文本内容。
 * 执行该指令会暂停程序执行，然后在舞台下文显示文本输入框，等待用户输入。输入完成后直接回车或者单击文本框右侧的 ![](../../.gitbook/assets/scratch10-8.png) 按钮完成输入。
 
+#### 试一试
 
+分别将该指令放置在角色脚本中与舞台背景脚本中运行程序，你发现了什么？
 
- #### 试一试
+[单击此处](http://haohaodada.com/video/a21005.php)或者扫描下方二维码可以观看相关视频。
 
- 分别将该指令放置在角色脚本中与舞台背景脚本中运行程序，你发现了什么？
-
- [单击此处](http://haohaodada.com/video/a21005.php)或者扫描下方二维码可以观看相关视频。
-
-![](../../.gitbook/assets/a21005.png) 
-
-
+![](../../.gitbook/assets/a21005.png)
 
 7.
 
-![](../../.gitbook/assets/scratch10-9.png) 
+![](../../.gitbook/assets/scratch10-9.png)
 
-* 属于“侦测”类别指令，与 ![](../../.gitbook/assets/scratch10-7.png) 指令配合使用，用户键盘输入的内容保存于该指令中。
-
-
+* 属于“侦测”类别指令，与 ![](../../.gitbook/assets/scratch10-7.png) 指令配合使用，用户键盘输入的内容保存于该指令中。
 
 ## 脚本设计
 
@@ -149,7 +119,7 @@
 
 [单击此处](http://haohaodada.com/video/a21006.php)或者扫描下方二维码可以观看以上内容相关的视频。
 
-![](../../.gitbook/assets/a21006.png) 
+![](../../.gitbook/assets/a21006.png)
 
 ### 第二步：口算出题
 
@@ -181,35 +151,29 @@
 
 [单击此处](http://haohaodada.com/video/a21007.php)或者扫描下方二维码观看以上内容相关的视频。
 
-![](../../.gitbook/assets/a21007.png) 
+![](../../.gitbook/assets/a21007.png)
 
-
-
- #### 试一试
+#### 试一试
 
 把
- 
+
 ![](../../.gitbook/assets/scratch10-14.png)
- 
+
 指令和
- 
+
 ![](../../.gitbook/assets/scratch10-15.png)
- 
+
 指令中的第二个参数修改成不同的数字后再运行程序，你发现了什么？
 
 如果将
- 
+
 ![](../../.gitbook/assets/scratch7-5.png)
 
 指令分别拖动到以上两个指令的第二个参数位置上再运行程序，你又发现了什么？
 
 [单击此处](http://haohaodada.com/video/a21008.php)或者扫描下方二维码可以观看相关视频。
 
-![](../../.gitbook/assets/a21008.png) 
-
-
-
-
+![](../../.gitbook/assets/a21008.png)
 
 ### 第三步：输入口算答案
 
@@ -217,20 +181,16 @@
 
 ![](../../.gitbook/assets/scratch10-16.png)
 
-
-
 [单击此处](http://haohaodada.com/video/a21009.php)或者扫描上方的二维码可以观看以上内容相关的视频。
 
-![](../../.gitbook/assets/a21009.png) 
+![](../../.gitbook/assets/a21009.png)
 
-
-
- #### 试一试
+#### 试一试
 
 在指令区勾选
- 
+
 ![](../../.gitbook/assets/scratch10-9.png)
- 
+
 指令前的
 
 ![](../../.gitbook/assets/scratch10-17.png)
@@ -239,7 +199,7 @@
 
 [单击此处](http://haohaodada.com/video/a21010.php)或者扫描下方二维码可以观看相关视频。
 
-![](../../.gitbook/assets/a21010.png) 
+![](../../.gitbook/assets/a21010.png)
 
 ### 第四步：判断答案是否正确
 
@@ -251,26 +211,19 @@
 
 ![](../../.gitbook/assets/scratch10-19.png)
 
-
-
 [单击此处](http://haohaodada.com/video/a21011.php)或者扫描下方二维码可以观看以上内容相关的视频。
 
-![](../../.gitbook/assets/a21011.png) 
+![](../../.gitbook/assets/a21011.png)
 
+#### 想一想
 
+现在的口算练习程序每运行一次只能练习一道口算题，如果想要练习多道题目，应该如何修改脚本？
 
- #### 想一想
+[单击此处](http://haohaodada.com/video/a21012.php)或者扫描下方二维码可以观看相关视频。
 
- 现在的口算练习程序每运行一次只能练习一道口算题，如果想要练习多道题目，应该如何修改脚本？
-
- [单击此处](http://haohaodada.com/video/a21012.php)或者扫描下方二维码可以观看相关视频。
-
-![](../../.gitbook/assets/a21012.png) 
-
-
-
-
+![](../../.gitbook/assets/a21012.png)
 
 ## 拓展思考
 
 在“喵喵”制作的口算软件帮助下，大家的口算成绩突飞猛进。不过“喵喵”觉得这个口算软件还不够完美，发挥你的想象，用学过的知识让口算软件更完美吧！
+
