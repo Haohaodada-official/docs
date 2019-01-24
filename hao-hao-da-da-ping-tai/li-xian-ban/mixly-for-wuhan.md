@@ -8,5 +8,5 @@
 
 提取码：ny99
 
-![](../../.gitbook/assets/bu-huo%20%281%29.PNG)
+![](../../.gitbook/assets/bu-huo-1.PNG)
 
