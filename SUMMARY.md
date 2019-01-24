@@ -7,8 +7,8 @@
 * [浏览器](hao-hao-da-da-ping-tai/lan-qi.md)
 * [插件](hao-hao-da-da-ping-tai/cha-jian.md)
 * [离线版](hao-hao-da-da-ping-tai/li-xian-ban/README.md)
-  * [好好搭搭Scratch Arduino](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch-arduino.md)
-  * [好好搭搭Scratch2.0](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch2.0.md)
+  * [好好搭搭Scratch中文离线版](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch-arduino.md)
+  * [好好搭搭Scratch Arduino 2.0](hao-hao-da-da-ping-tai/li-xian-ban/hao-hao-da-da-scratch2.0.md)
   * [Mixly For WuHan](hao-hao-da-da-ping-tai/li-xian-ban/mixly-for-wuhan.md)
 * [远程协助软件](hao-hao-da-da-ping-tai/yuan-cheng-xie-zhu-ruan-jian.md)
 

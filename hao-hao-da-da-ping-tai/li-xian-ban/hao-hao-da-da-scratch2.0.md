@@ -1,2 +1,2 @@
-# 好好搭搭Scratch2.0
+# 好好搭搭Scratch Arduino 2.0
 

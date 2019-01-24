@@ -1,8 +1,8 @@
-# 第七课  在Scratch中使用亮度传感器——太阳公公笑了
+# 第7课 在Scratch中使用亮度传感器——太阳公公笑了
 
 太阳公公最近有点心烦，因为乌云不断来骚扰它，总是偷偷过来遮住它的脸，让它看不清蓝天、白云与绿色的大地。本课我们将通过传感器板上的亮度传感器帮助太阳公公控制乌云，让乌云变得听话。
 
-![](../../.gitbook/assets/Scratch-sensor7-1.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-1.png)
 
 ## 模块与指令
 
@@ -12,13 +12,13 @@
 
 [单击此处](http://www.haohaodada.com/video/b10701)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor7-3.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-3.png)
 
 亮度传感器其实是一个光敏管，能够感知周围光线的强弱，然后转换成电信号输出。
 
 ### ”读取亮度“指令：
 
-![](../../.gitbook/assets/Scratch-sensor7-4.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-4.png)
 
 读取传感器板上亮度传感器的数值，取值范围是（0，4095）。
 
@@ -28,9 +28,9 @@
 
 [单击此处](http://www.haohaodada.com/video/b10702)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor7-5.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-5.png)
 
-![](../../.gitbook/assets/Scratch-sensor7-b1.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-b1.png)
 
 ## 作品制作
 
@@ -40,23 +40,23 @@
 
 [单击此处](http://www.haohaodada.com/video/b10703)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor7-7.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-7.png)
 
 1.通过“背景库”对话框添加“blue sky”图片作为舞台背景；再通过“角色库”对话框添加太阳公公（Sun）角色。
-    
+
 2.通过“绘制新角色”的方法，在“矢量编辑模式”利用“椭圆”工具绘制“乌云”角色。（如果觉得自己绘制“乌云”角色有困难，也可以登录“好好搭搭”网站，从本课的范例程序网页的“资源下载”选项卡中下载）
 
 3.调整舞台上这两个角色的大小、将它们拖动到舞台的合适位置。
 
 4.隐藏舞台上除“亮度”以外，其它无关的传感器数值。
 
-![](../../.gitbook/assets/Scratch-sensor7-8.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-8.png)
 
 ### 第二步：编写舞台背景脚本
 
 [单击此处](http://www.haohaodada.com/video/b10703)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor7-9.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-9.png)
 
 舞台背景应该能够根据传感器板上亮度传感器的数值而改变亮度。
 
@@ -66,11 +66,11 @@
 
 在编写脚本的时候，不能直接使用“亮度”特效设置背景图片的亮度（如下图所示），不然当环境持续亮时（一直都小于3000），背景会不断增加亮度特效，直到整个图片全部变白（特效值为100）；反之又会持续变暗，暗得只剩下黑色（特效值为-100）。
 
-![](../../.gitbook/assets/Scratch-sensor7-10.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-10.png)
 
 正确的办法是控制背景“亮度”特效值的变化范围，一般可以在（0，-80）之间变化。因此先创建一个“背景亮度”变量，设置这个变量初始值为“0”，也就是正常的亮度特效值；然后进行判断：在亮度传感器数值小于3000时，表明周围光线充足，这时如果“背景亮度”变量值小于0，那么应该将“背景亮度”变量值“+1”；如果亮度传感器的值大于3000，表明周围光线较暗，这时如果“背景亮度”变量值大于-80，那么应该将“背景亮度”变量的值“-1”。最后根据“背景亮度”变量的数值设置亮度特效。具体脚本代码如下图所示。
 
-![](../../.gitbook/assets/Scratch-sensor7-11.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-11.png)
 
 #### 试一试
 
@@ -78,19 +78,19 @@
 
 [单击此处](http://www.haohaodada.com/video/b10704)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor7-12.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-12.png)
 
 ### 第三步：编写乌云角色脚本
 
 [单击此处](http://www.haohaodada.com/video/b10705)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor7-13.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-13.png)
 
 “乌云”角色能够根据亮度传感器的值进入与退出舞台，当环境光线正常时，乌云不会出现；当环境光线变暗时，乌云就会进入舞台，挡住太阳公公。
 
 要让“乌云”角色能够准确的进入、退出舞台，还应该知道“乌云”角色相应的坐标值，可以通过鼠标拖动“乌云”摆放到目标位置的方法获取。本课范例中，“乌云”角色在舞台外的坐标是（450，20），遮挡住太阳公公的坐标是（150，20）。
 
-![](../../.gitbook/assets/Scratch-sensor7-14.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-14.png)
 
 #### 练一练
 
@@ -100,4 +100,5 @@
 
 利用传感器板上的亮度传感器，还可以设计如下图所示的智能台灯，利用传感器板上的亮度传感器，控制台灯的亮、灭以及亮度变化。
 
-![](../../.gitbook/assets/Scratch-sensor7-15.png)
+![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor7-15.png)
+
