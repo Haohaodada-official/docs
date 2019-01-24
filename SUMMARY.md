@@ -6,6 +6,7 @@
 
 * [浏览器](hao-hao-da-da-ping-tai/lan-qi.md)
 * [插件](hao-hao-da-da-ping-tai/cha-jian.md)
+* [微信物联网小程序](hao-hao-da-da-ping-tai/wei-xin-wu-lian-wang-xiao-cheng-xu.md)
 * [离线版](hao-hao-da-da-ping-tai/li-xian-ban/README.md)
   * [好好搭搭Scratch中文离线版](hao-hao-da-da-ping-tai/li-xian-ban/haohaodada-scratch2.md)
   * [好好搭搭Scratch Arduino 2.0](hao-hao-da-da-ping-tai/li-xian-ban/scratch-arduino2.0.md)
@@ -172,7 +173,9 @@
 
 ## 编程语法
 
-* [Scratch](bian-cheng-yu-fa/scratch.md)
+* [Scratch](bian-cheng-yu-fa/scratch/README.md)
+  * [指令](bian-cheng-yu-fa/scratch/zhi-ling.md)
+  * [程序结构](bian-cheng-yu-fa/scratch/cheng-xu-jie-gou.md)
 * [Arduino](bian-cheng-yu-fa/arduino.md)
 * [Micropython](bian-cheng-yu-fa/micropython.md)
 
