@@ -18,11 +18,11 @@ NOVA酒精传感器MQ-3模块是用于酒精泄漏检测，其灵敏度高、响
 
 ## 使用方式
 
-![](../../.gitbook/assets/11.png)
+![](../../.gitbook/assets/11%20%281%29.png)
 
 ## 示例代码
 
-![](../../.gitbook/assets/12.png)
+![](../../.gitbook/assets/12%20%281%29.png)
 
 [MQ3传感器模块示例代码](http://www.haohaodada.com/show.php?id=947448)
 
