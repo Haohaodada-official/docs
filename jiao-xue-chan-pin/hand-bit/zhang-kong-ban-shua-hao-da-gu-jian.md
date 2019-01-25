@@ -60,11 +60,11 @@
 
 2.根据说明按住掌控板B键，进入配网状态，显示配网界面。扫描二维码获取mac地址。
 
-![](../../.gitbook/assets/zhangkong-13.png)
+![](../../.gitbook/assets/zhangkong-13.jpg)
 
 3.打开setwifi应用程序，输入欲连接的wifi名称及密码点击设置进行配网。连接成功后显示已连接并跳转到如下界面及配网成功。
 
-![](../../.gitbook/assets/zhangkong-14.png)
+![](../../.gitbook/assets/zhangkong-14.jpg)
 
 ## 编程
 
@@ -78,7 +78,7 @@
 
 3.成果
 
-![](../../.gitbook/assets/zhangkong-17.png)
+![](../../.gitbook/assets/zhangkong-17.jpg)
 
 ```text
 注意：每一次烧写程序先要捏P键按下RST重启清空程序。
