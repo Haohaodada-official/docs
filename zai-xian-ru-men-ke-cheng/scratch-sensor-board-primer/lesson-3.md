@@ -1,8 +1,8 @@
-# 第3课 在Scratch中使用LED——防火小卫士
+# 第三课  在Scratch中使用LED——防火小卫士 
 
 森林之王——老虎因有事要外出，它请聪明能干的小猫暂时看守几天森林。天气渐热，正值森林火灾高发时期。为了更好地做好火灾防护工作，本课我们将通过Scratch设计一个程序，用传感器板上的LED做火灾预警，帮助小猫保卫森林。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-1.png)
+![](../../.gitbook/assets/Scratch-sensor3-1.png)
 
 ## 模块与指令
 
@@ -12,29 +12,29 @@
 
 [单击此处](http://www.haohaodada.com/video/b10301)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-3.png)
+![](../../.gitbook/assets/Scratch-sensor3-3.png)
 
 LED的中文名称叫做“发光二极管”。它可以把电能转化成光能，在电子电路或者仪器设备中经常作为指示灯使用，也可以用于显示文字或者数字。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-5.png)
+![](../../.gitbook/assets/Scratch-sensor3-5.png)
 
 在好好搭搭传感器板的正下方，有红色、黄色、绿色三颗LED，通过Scratch可以编写程序控制它们的状态。
 
 ### "设置绿灯亮灭"指令“：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-6.png)
+![](../../.gitbook/assets/Scratch-sensor3-6.png)
 
 设置绿色LED的亮灭，取值范围为（0，1）。当参数值为“0”时，绿色LED灭；参数值为“1”时，绿色LED亮。
 
 ### "设置黄灯亮灭"指令“：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-7.png)
+![](../../.gitbook/assets/Scratch-sensor3-7.png)
 
 设置黄色LED的亮灭，取值范围为（0，1）。当参数值为“0”时，黄色LED灭；参数值为“1”时，黄色LED亮。
 
 ### "设置红灯亮灭"指令“：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-8.png)
+![](../../.gitbook/assets/Scratch-sensor3-8.png)
 
 设置红色LED的亮度，取值范围为（0-100）。与绿色、黄色LED不同，红色LED除了参数值为“0”时不亮以外，还可以设置亮度；参数值越大，亮度越高，参数值为“100”时，LED最亮。
 
@@ -42,9 +42,9 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 
 [单击此处](http://www.haohaodada.com/video/b10302)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-9.png)
+![](../../.gitbook/assets/Scratch-sensor3-9.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-b1.png)
+![](../../.gitbook/assets/Scratch-sensor3-b1.png)
 
 ## 作品制作
 
@@ -54,13 +54,13 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 
 [单击此处](http://www.haohaodada.com/video/b10303)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-10.png)
+![](../../.gitbook/assets/Scratch-sensor3-10.png)
 
 1.打开网络浏览器，登录“好好搭搭”网站，进入“传感器板编程设计页”，将传感器板和计算机连接起来。
 
 2.单击“舞台列表区”中的
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor5-8.png)
+![](../../.gitbook/assets/Scratch-sensor5-8.png)
 
 按钮，在打开的“背景库”对话框中，将森林缩略图（forest）作为背景图片添加到舞台上。
 
@@ -70,35 +70,35 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 
 5.单击舞台背景缩略图，在“脚本区”添加如下右图所示的初始化脚本代码：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-b2.png)
+![](../../.gitbook/assets/Scratch-sensor3-b2.png)
 
 ### 第二步：用绿色LED灯表示没有烟雾
 
 [单击此处](http://www.haohaodada.com/video/b10304)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-13.png)
+![](../../.gitbook/assets/Scratch-sensor3-13.png)
 
 在本课的范例程序中，当“烟雾”变量值=“0”时，绿色LED亮，表示森林安全。要实现这个功能，可以单击舞台背景缩略图，在“脚本区”编写控制绿色LED的代码。
 
 首先将“当绿旗被点击”和“重复执行”指令组合在一起，然后使用“判断”指令进行判断：如果“烟雾”=“0”时，那么绿色LED“亮”，其他LED“灭”。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-14.png)
+![](../../.gitbook/assets/Scratch-sensor3-14.png)
 
 ### 第三步：用黄色LED灯表示有烟雾但在安全范围内
 
 [单击此处](http://www.haohaodada.com/video/b10305)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-15.png)
+![](../../.gitbook/assets/Scratch-sensor3-15.png)
 
 黄色LED与绿色LED的脚本代码基本相同，都是通过设置“亮”、“灭”来表示当前森林的状态。
 
-所不同的是“判断”指令的条件。黄色LED亮的条件应该是“烟雾变量数值”&gt;“0”并且“烟雾变量数值”&lt;“30”这两个条件同时满足。因此要用到“数字和逻辑运算”类别中的
+所不同的是“判断”指令的条件。黄色LED亮的条件应该是“烟雾变量数值”>“0”并且“烟雾变量数值”<“30”这两个条件同时满足。因此要用到“数字和逻辑运算”类别中的
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-16.png)
+![](../../.gitbook/assets/Scratch-sensor3-16.png)
 
 指令将这两个条件组合在一起。具体的脚本代码如下图所示：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-17.png)
+![](../../.gitbook/assets/Scratch-sensor3-17.png)
 
 #### 试一试
 
@@ -106,17 +106,17 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 
 [单击此处](http://www.haohaodada.com/video/b10306)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-18.png)
+![](../../.gitbook/assets/Scratch-sensor3-18.png)
 
 ### 第四步：用红色LED表示烟雾超出安全范围
 
 [单击此处](http://www.haohaodada.com/video/b10307)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-19.png)
+![](../../.gitbook/assets/Scratch-sensor3-19.png)
 
-当“烟雾”=“30”或者“烟雾”&gt;“30”时，红色LED亮起，表示森林存在危险。由于这两个条件只要满足其中一个就应该让红色LED亮，因此可以使用“数字和逻辑运算”类别中的
+当“烟雾”=“30”或者“烟雾”>“30”时，红色LED亮起，表示森林存在危险。由于这两个条件只要满足其中一个就应该让红色LED亮，因此可以使用“数字和逻辑运算”类别中的
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-20.png)
+![](../../.gitbook/assets/Scratch-sensor3-20.png)
 
 指令将这两个条件组合在一起。
 
@@ -124,19 +124,19 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 
 其中常亮和闪烁效果的脚本代码与绿色LED、黄色LED类似，如下图所示的就是满足条件后红色LED闪烁的效果：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-21.png)
+![](../../.gitbook/assets/Scratch-sensor3-21.png)
 
 ### 第五步：让红色LED会“呼吸”
 
 [单击此处](http://www.haohaodada.com/video/b10308)或者扫描下方二维码可以观看相关的视频。
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-22.png)
+![](../../.gitbook/assets/Scratch-sensor3-22.png)
 
 除了让红色LED常亮和闪烁，还可以让它的亮度在最亮与最暗之间逐渐变化，就像它会“呼吸”一样。
 
 要达到这样的效果，应该先新建“亮度”变量用于存贮红色LED的亮度值，同时设置这个变量的初始值为“0”；然后使用“重复执行”指令，让变量从“0”开始依次增加，直到最大值“100”，由于“设置红灯亮度”指令的参数值就是“亮度”变量的值，所以红色LED会逐渐亮起；再使用第二个“重复执行”指令，让变量从“100”开始依次减少，直到最小值“10”，这时红色LED会逐渐熄灭，从而实现“呼吸灯”的效果。具体脚本如下图所示：
 
-![](https://github.com/Haohaodada-official/docs/tree/75ec2c4586880d18df756ec3d2daf4b3d5ddb66f/.gitbook/assets/Scratch-sensor3-23.png)
+![](../../.gitbook/assets/Scratch-sensor3-23.png)
 
 #### 练一练
 
@@ -145,4 +145,3 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 #### 拓展思考
 
 请结合上节课学习的内容，使用传感器板上的按键控制LED。
-
