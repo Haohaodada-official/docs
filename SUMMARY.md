@@ -182,6 +182,10 @@
 * [Scratch](bian-cheng-yu-fa/scratch/README.md)
   * [指令](bian-cheng-yu-fa/scratch/zhi-ling.md)
   * [程序结构](bian-cheng-yu-fa/scratch/cheng-xu-jie-gou.md)
-* [Arduino](bian-cheng-yu-fa/arduino.md)
+* [Arduino](bian-cheng-yu-fa/arduino/README.md)
+  * [程序结构](bian-cheng-yu-fa/arduino/cheng-xu-jie-gou.md)
+  * [变量](bian-cheng-yu-fa/arduino/bian-liang.md)
+  * [基本函数](bian-cheng-yu-fa/arduino/ji-ben-han-shu.md)
+  * [类库](bian-cheng-yu-fa/arduino/lei-ku.md)
 * [Micropython](bian-cheng-yu-fa/micropython.md)
 
