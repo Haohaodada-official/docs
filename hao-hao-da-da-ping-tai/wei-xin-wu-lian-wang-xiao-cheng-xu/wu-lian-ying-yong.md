@@ -33,6 +33,7 @@
 | 电源键-关 | Open=-1 |
 | 呼吸灯 | Breathing\_Light=1 |
 | 调色面板 | R=255&G=255&B=255   \(颜色值范围：0-255\) |
+| 定时 | StartTime=20&StopTime=181\(时间值为分钟\) |
 
 案例：[月球灯案例](http://www.haohaodada.com/3dmoon/index.php?id=3131)
 

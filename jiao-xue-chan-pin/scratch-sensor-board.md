@@ -85,3 +85,7 @@ A：按顺序操作：
 
 3.为预防静电损坏，在冬天干燥环境下可先用手触摸金属物体释放人体静电。
 
+## 课程
+
+{% page-ref page="../zai-xian-ru-men-ke-cheng/ji-yu-scratch-de-chuan-gan-qi-ban-bian-cheng/" %}
+
