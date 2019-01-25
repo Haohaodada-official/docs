@@ -87,5 +87,5 @@ A：按顺序操作：
 
 ## 课程
 
-{% page-ref page="../zai-xian-ru-men-ke-cheng/ji-yu-scratch-de-chuan-gan-qi-ban-bian-cheng/" %}
+{% page-ref page="../zai-xian-ru-men-ke-cheng/scratch-sensor-board-primer/" %}
 
