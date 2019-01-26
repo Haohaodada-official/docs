@@ -54,7 +54,7 @@ LED的中文名称叫做“发光二极管”。它可以把电能转化成光�
 
 [单击此处](http://www.haohaodada.com/video/b10303)或者扫描下方二维码可以观看相关的视频。
 
-![](../../.gitbook/assets/Scratch-sensor3-11.png)
+![](../../.gitbook/assets/Scratch-sensor3-11.PNG)
 
 1.打开网络浏览器，登录“好好搭搭”网站，进入“传感器板编程设计页”，将传感器板和计算机连接起来。
 
