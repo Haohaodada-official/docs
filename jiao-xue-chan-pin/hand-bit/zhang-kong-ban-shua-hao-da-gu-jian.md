@@ -58,7 +58,7 @@
 
 1.扫描上图二维码进入微信公众号-掌控操作说明。
 
-![](../../.gitbook/assets/zhangkong-12.png)
+![](../../.gitbook/assets/zhangkong-12.PNG)
 
 2.根据说明按住掌控板B键，进入配网状态，显示配网界面。扫描二维码获取mac地址。
 
