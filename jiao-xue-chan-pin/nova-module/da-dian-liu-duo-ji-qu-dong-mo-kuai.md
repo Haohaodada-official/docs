@@ -19,7 +19,9 @@ NOVA的舵机模块是专为驱动舵机而设计的，采用大电流MP1584芯�
 
 ![](../../.gitbook/assets/21.png)
 
-舵机连接方式： ![](../../.gitbook/assets/138.png)
+舵机连接方式：
+
+![](../../.gitbook/assets/138.png)
 
 ## 示例代码
 
