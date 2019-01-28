@@ -28,7 +28,6 @@ wulink-UNO主板在UNO主板基础上增加了无线网卡，集云编程、无�
 
 ## 接口说明
 
-![](https://github.com/Haohaodada-official/docs/tree/210abca9dd3714c4358302dd4b5d38873c7cb669/jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/images/wulink-UNO-2.png)
 
 ## 使用方式
 
