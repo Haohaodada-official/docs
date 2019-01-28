@@ -35,7 +35,11 @@
 
 3.下载[好好搭搭插件](http://www.haohaodada.com/haohaodada_setup.exe) ，插件安装说明移步[好好搭搭插件说明](http://www.haohaodada.com/haohaodada_setup.exe)
 
-4.打开![&#x5728;&#x7EBF;&#x7F16;&#x7A0B;&#x63D2;&#x4EF6;](../.gitbook/assets/02%20%281%29.png)（全程不能关闭），
+4.打开
+
+![](../.gitbook/assets/020202.png)
+
+（全程不能关闭）
 
 ![](../.gitbook/assets/03.png)
 
