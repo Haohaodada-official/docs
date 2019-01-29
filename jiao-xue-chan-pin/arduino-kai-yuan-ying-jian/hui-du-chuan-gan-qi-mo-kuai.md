@@ -22,11 +22,11 @@
 
 ## 示例代码
 
-![](https://github.com/Haohaodada-official/docs/tree/18bb63875067e7be35884f09a3111e6c5fb4cc8c/jiao-xue-chan-pin/.gitbook/assets/arduino-77.png)
+![](../../.gitbook/assets/arduino-77.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/18bb63875067e7be35884f09a3111e6c5fb4cc8c/jiao-xue-chan-pin/.gitbook/assets/arduino-53.png)
+![](../../.gitbook/assets/arduino-53.png)
 
-[亮度传感器模块示例代码](http://www.haohaodada.com/show.php?id=956410)
+[灰度传感器模块示例代码](http://www.haohaodada.com/show.php?id=956410)
 
 ## 原理图
 

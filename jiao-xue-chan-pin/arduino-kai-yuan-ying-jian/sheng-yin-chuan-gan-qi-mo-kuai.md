@@ -23,7 +23,7 @@
 
 ![](../../.gitbook/assets/arduino-85.png)
 
-![](https://github.com/Haohaodada-official/docs/tree/18bb63875067e7be35884f09a3111e6c5fb4cc8c/.gitbook/assets/arduino-53.png)
+![](../../.gitbook/assets/arduino-53.png)
 
 [示例代码](http://www.haohaodada.com/show.php?id=956410)
 
