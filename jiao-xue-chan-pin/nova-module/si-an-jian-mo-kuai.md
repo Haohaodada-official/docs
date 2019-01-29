@@ -25,7 +25,7 @@ NOVA的四按键模块，是通过AD采样实现的 ，所以只能接在模拟�
 
 ![](../../.gitbook/assets/60.png)
 
-[四按键模块示例代码](http://www.haohaodada.com/show.php?id=947651)
+[四按键模块示例代码](http://www.haohaodada.com/show.php?id=1066977)
 
 ## 原理图
 
