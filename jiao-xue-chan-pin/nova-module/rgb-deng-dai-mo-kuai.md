@@ -21,7 +21,7 @@ Nova的RGB模块主要实现LED灯的各种颜色、亮度的控制，从而产�
 
 ## 示例代码
 
-![](../../.gitbook/assets/82.png)
+![](../../.gitbook/assets/nova-rgb.png)
 
 [RGB灯带模块示例代码](http://www.haohaodada.com/show.php?id=947363)
 
