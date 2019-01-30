@@ -25,7 +25,7 @@
 
 ![](../../.gitbook/assets/arduino-53.png)
 
-[示例代码](http://www.haohaodada.com/show.php?id=956410)
+[声音传感器模块示例代码](http://www.haohaodada.com/show.php?id=956410)
 
 ## 原理图
 

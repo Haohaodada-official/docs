@@ -27,7 +27,7 @@ LM35温度传感器模块是基于LM35的半导体温度传感器，可以用来
 
 ![](../../.gitbook/assets/arduino-42.png)
 
-[LM35温度模块示例代码](http://www.haohaodada.com/show.php?id=955727)
+[LM35温度传感器模块示例代码](http://www.haohaodada.com/show.php?id=955727)
 
 ## 原理图
 

@@ -21,9 +21,9 @@ NOVA的红外接收模块需要配套的NOVA红外遥控器一起使用。
 
 ## 示例代码
 
-![](../../.gitbook/assets/36.png)
+![](../../.gitbook/assets/nova-ir.png)
 
-[红外接收模块示例代码](http://www.haohaodada.com/show.php?id=947645)
+[红外接收模块示例代码](http://www.haohaodada.com/show.php?id=1068035)
 
 ## 原理图
 
