@@ -196,9 +196,9 @@
 
 * 上述脚本中的
 
-  ![](../../.gitbook/assets/scratch9-8.png)
+![](../../.gitbook/assets/scratch9-8.png)
 
-  指令能否删除？为什么？
+指令能否删除？为什么？
 
 [单击此处](http://haohaodada.com/video/a20908.php)或者扫描下方二维码可以观看相关视频。
 
