@@ -262,7 +262,7 @@
 
 * 在编写背景代码播放声音时，能否不使用
 
-  ![](../../.gitbook/assets/scratch5-4.png)
+![](../../.gitbook/assets/scratch5-4.png)
 
   指令？为什么？
 
