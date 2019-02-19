@@ -164,6 +164,7 @@
   * [电机主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/dian-ji-zhu-ban.md)
   * [灯光主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/deng-guang-zhu-ban.md)
   * [月球灯](jiao-xue-chan-pin/3d-da-yin-tao-jian/yue-qiu-deng.md)
+* [好搭磁性电子积木](jiao-xue-chan-pin/hao-da-ci-xing-dian-zi-ji-mu.md)
 * [科学探究套件](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian.md)
 
 ## 造物产品
