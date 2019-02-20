@@ -8,6 +8,7 @@
 
 ## 零件简介
 
+![](../.gitbook/assets/jimu-2.jpg)
 
 
 ## 相关资料
