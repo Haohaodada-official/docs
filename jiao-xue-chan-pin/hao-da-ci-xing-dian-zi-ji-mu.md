@@ -22,6 +22,8 @@
 
 ![](../.gitbook/assets/jimu-8.png)
 
+![](../.gitbook/assets/jimu-9.png)
+
 ## 相关资料
 
 [电子电路入门](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E5%85%A5%E9%97%A8-V2.pdf)
