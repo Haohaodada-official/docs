@@ -81,6 +81,7 @@
 * [Nova电子积木](jiao-xue-chan-pin/nova-module/README.md)
   * [Nduino HD](jiao-xue-chan-pin/nova-module/nduino-hd.md)
   * [Nduino BOT](jiao-xue-chan-pin/nova-module/nduino-bot.md)
+  * [Nduino-Wulink](jiao-xue-chan-pin/nova-module/nduino-wulink.md)
   * [LED](jiao-xue-chan-pin/nova-module/led.md)
   * [蜂鸣器模块](jiao-xue-chan-pin/nova-module/feng-ming-qi-mo-kuai.md)
   * [RGB模块](jiao-xue-chan-pin/nova-module/rgb-mo-kuai.md)
