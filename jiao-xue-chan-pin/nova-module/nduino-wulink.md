@@ -1,6 +1,6 @@
 # Nduino-Wulink
 
-![](../.gitbook/assets/wulink-nova-1.PNG)
+![](../../.gitbook/assets/wulink-nova-1.png)
 
 ## 概述
 WULink-Nova是在nova的HD板与小车板的基础之上，增加了无线网卡，集云编程、无线下载、物联网通讯功能于一体，不仅可以快速造物，还能进行物联网开发，使用更加方便有趣。
