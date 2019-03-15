@@ -1,6 +1,6 @@
 # 配网APP
 
-#### 打开app store搜索app-好搭配网并下载。
+#### 打开app store搜索好搭配网并下载。
 
 ![](../../.gitbook/assets/apppeiwang-1.jpg)
 
