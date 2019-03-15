@@ -18,4 +18,4 @@
 
 #### 回到好搭配网app，选择设备按键后面显示已连接设备mac地址，输入wifi名称及密码，点击配置wifi键，即可对设备配网。
 
-![](../../.gitbook/assets/apppeiwang-4.png)
+![](../../.gitbook/assets/apppeiwang-4.PNG)
