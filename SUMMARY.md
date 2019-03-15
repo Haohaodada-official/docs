@@ -18,6 +18,7 @@
   * [好好搭搭Scratch Arduino 2.0](hao-hao-da-da-ping-tai/li-xian-ban/scratch-arduino2.0.md)
   * [Mixly For WuHan](hao-hao-da-da-ping-tai/li-xian-ban/mixly-for-wuhan.md)
 * [远程协助软件](hao-hao-da-da-ping-tai/yuan-cheng-xie-zhu-ruan-jian.md)
+* [配网APP](hao-hao-da-da-ping-tai/pei-wang-app.md)
 
 ## 在线入门课程
 
