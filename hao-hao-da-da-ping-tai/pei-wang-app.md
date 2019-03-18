@@ -1,8 +1,16 @@
 # 配网APP
 
-#### 打开app store搜索好搭配网并下载。
+#### 下载好搭配网app。
+
+##### ios端
+
+打开app store搜索好搭配网并下载
 
 ![](../../.gitbook/assets/apppeiwang-1.jpg)
+
+##### 安卓端
+
+[点击此处](https://github.com/Haohaodada-official/docs/blob/master/hao-hao-da-da-ping-tai/apk/%E5%A5%BD%E6%90%AD%E9%85%8D%E7%BD%91.apk)下载好搭配网app
 
 #### 设备进入网络配置模式
 
