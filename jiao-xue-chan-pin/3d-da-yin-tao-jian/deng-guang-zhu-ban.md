@@ -27,19 +27,19 @@
 
 Step 1：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/dengguang-1.jpg)
+![](../../.gitbook/assets/dengguang-1.JPG)
 
 Step 2：主板与电池一起放在外壳的相应位置，按下电源键。
 
-![](../../.gitbook/assets/dengguang-2.jpg)
+![](../../.gitbook/assets/dengguang-2.JPG)
 
 Step 3：盖上顶盖，即组装完毕。
 
-![](../../.gitbook/assets/dengguang-3.jpg)
+![](../../.gitbook/assets/dengguang-3.JPG)
 
 Step 4：通过无线下载程序，RGB彩灯即能根据设置好的程序亮起。
 
-![](../../.gitbook/assets/dengguang-4.jpg)
+![](../../.gitbook/assets/dengguang-4.JPG)
 
 ## 示例代码
 
