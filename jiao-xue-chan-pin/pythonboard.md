@@ -49,7 +49,7 @@ Step 3: 下载
 
 ## 教程
 
-[Python硬件套件教程-统稿](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/PythonBoard/pdf/Python硬件套件教程-统稿.pdf%20)
+[Python硬件套件教程-统稿](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/Python%E7%A1%AC%E4%BB%B6%E5%A5%97%E4%BB%B6%E6%95%99%E7%A8%8B-%E7%BB%9F%E7%A8%BF.pdf)
 
 ## 常见问题
 

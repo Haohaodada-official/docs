@@ -22,17 +22,17 @@ WU-Link 最大的亮点在于物联网相关的设置与通讯非常简单，让
 
 ## 扩展接口说明
 
-[WU-Link扩展接口说明](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link扩展接口说明.pdf)
+[WU-Link扩展接口说明](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/WU-Link%E6%89%A9%E5%B1%95%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E.pdf)
 
 ## 使用方式
 
-[WU-Link简易教程](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link简易教程.pdf)
+[WU-Link简易教程](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/WU-Link%E7%AE%80%E6%98%93%E6%95%99%E7%A8%8B.pdf)
 
-[WU-Link物联网套件教程-统稿](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/wulink/pdf/WU-Link物联网套件教程-统稿.pdf)
+[WU-Link物联网套件教程-统稿](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/WU-Link%E7%89%A9%E8%81%94%E7%BD%91%E5%A5%97%E4%BB%B6%E6%95%99%E7%A8%8B-%E7%BB%9F%E7%A8%BF.pdf)
 
 ## 课程
 
-[WU-Link智能造物入门](http://doc.haohaodada.com/zh/latest/book/WU-Link智能造物入门/index.html)
+[WU-Link智能造物入门](https://docs.haohaodada.com/~/revisions/-LaJ8JiDM62JyESt8TJM/zai-xian-ru-men-ke-cheng/wulink-primer)
 
 ## 原理图
 
