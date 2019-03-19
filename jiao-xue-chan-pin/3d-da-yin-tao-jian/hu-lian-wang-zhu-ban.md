@@ -27,7 +27,7 @@
 
 Step 1：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/hulianwang-1.png)
+![](../../.gitbook/assets/hulianwang-1.JPG)
 
 Step 2：主板与电池一起放入外壳的相应位置。
 

@@ -31,7 +31,7 @@ Step 1：将电池与主板通过锂电池接口连接。
 
 Step 2：主板与电池一起放在外壳的相应位置，按下电源键。
 
-![](../../.gitbook/assets/dengguang-2.JPG)
+![](../../.gitbook/assets/dengguang-2.PNG)
 
 Step 3：盖上顶盖，即组装完毕。
 
