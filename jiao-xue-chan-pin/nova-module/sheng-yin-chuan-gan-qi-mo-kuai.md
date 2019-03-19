@@ -30,7 +30,7 @@ NOVA的声音模块采用咪头采集声音信号并转化成高低电平脉冲�
 
 ## 原理图
 
-[声音传感器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/声音传感器模块.pdf)
+[声音传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%A3%B0%E9%9F%B3%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -38,7 +38,7 @@ NOVA的声音模块采用咪头采集声音信号并转化成高低电平脉冲�
 
 ## 相关资源
 
-[LM2904芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/声音-LM2904.PDF)
+[LM2904芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E5%A3%B0%E9%9F%B3-LM2904.PDF)
 
 ## 常见问题
 

@@ -28,7 +28,7 @@ NOVA的限位开关模块，开关没有触碰时输出高电平，绿色LED状�
 
 ## 原理图
 
-[限位开关模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/限位开关模块.pdf)
+[限位开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E9%99%90%E4%BD%8D%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 

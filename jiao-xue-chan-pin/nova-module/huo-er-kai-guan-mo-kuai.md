@@ -30,7 +30,7 @@ NOVA霍尔传感器是基于霍尔感应原理的超敏感磁性传感器，低�
 
 ## 原理图
 
-[霍尔开关模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/霍尔开关模块.pdf)
+[霍尔开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E9%9C%8D%E5%B0%94%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 

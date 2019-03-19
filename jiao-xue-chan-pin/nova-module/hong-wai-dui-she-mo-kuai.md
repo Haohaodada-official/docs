@@ -34,7 +34,7 @@
 
 ## 原理图
 
-[红外对射模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/红外对射模块.pdf)
+[红外对射模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E7%BA%A2%E5%A4%96%E5%AF%B9%E5%B0%84%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -42,7 +42,7 @@
 
 ## 相关资源
 
-[光电开关ITR9608数据手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/红外对射-光电开关ITR9608.PDF)
+[光电开关ITR9608数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E7%BA%A2%E5%A4%96%E5%AF%B9%E5%B0%84-%E5%85%89%E7%94%B5%E5%BC%80%E5%85%B3ITR9608.PDF)
 
 ## 常见问题
 

@@ -34,8 +34,6 @@ wulink-UNO主板在UNO主板基础上增加了无线网卡，集云编程、无�
 
 ## 原理图
 
-[wulink-UNO原理图](wulink-uno.md)
-
 ## 常见问题
 
 1.微信配置不上网络

@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[超声波传感器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/超声波传感器模块.pdf)
+[超声波传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E8%B6%85%E5%A3%B0%E6%B3%A2%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -37,7 +37,11 @@
 
 ## 相关资源
 
-[STM8S003F3U6TR芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/超声波-STM8S003F3U6TR.PDF) [MAX232芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/超声波-MAX232.PDF) [LMV324IDR芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/超声波-LMV324IDR.PDF)
+[STM8S003F3U6TR芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E8%B6%85%E5%A3%B0%E6%B3%A2-STM8S003F3U6TR.PDF)
+
+[MAX232芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E8%B6%85%E5%A3%B0%E6%B3%A2-MAX232.PDF) 
+
+[LMV324IDR芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E8%B6%85%E5%A3%B0%E6%B3%A2-LMV324IDR.PDF)
 
 ## 常见问题
 

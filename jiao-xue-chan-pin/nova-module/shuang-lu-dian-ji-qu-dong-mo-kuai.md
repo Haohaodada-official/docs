@@ -27,7 +27,7 @@ NOVA的双路电机模块，每个驱动模块可以实现两路电机的同方�
 
 ## 原理图
 
-[双路电机驱动模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/双路电机驱动模块.pdf)
+[双路电机驱动模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%8F%8C%E8%B7%AF%E7%94%B5%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -35,7 +35,7 @@ NOVA的双路电机模块，每个驱动模块可以实现两路电机的同方�
 
 ## 相关资源
 
-[TB6612FNG芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/双路电机-TB6612FNG.PDF)
+[TB6612FNG芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E5%8F%8C%E8%B7%AF%E7%94%B5%E6%9C%BA-TB6612FNG.PDF)
 
 ## 常见问题
 

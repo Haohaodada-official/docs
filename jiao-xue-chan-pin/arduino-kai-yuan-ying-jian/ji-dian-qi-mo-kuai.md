@@ -37,7 +37,7 @@
 
 ## 原理图
 
-[继电器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/继电器模块.pdf)
+[继电器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E7%BB%A7%E7%94%B5%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 

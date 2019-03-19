@@ -30,7 +30,7 @@ NOVA温湿度模块采用的是DHT11传感器，可以用来同时测量温度�
 
 ## 原理图
 
-[温湿度模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/温湿度模块.pdf)
+[温湿度模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E6%B8%A9%E6%B9%BF%E5%BA%A6%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 

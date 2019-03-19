@@ -31,7 +31,7 @@ NOVA的舵机模块是专为驱动舵机而设计的，采用大电流MP1584芯�
 
 ## 原理图
 
-[大电流舵机驱动模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/大电流舵机驱动模块.pdf)
+[大电流舵机驱动模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%A4%A7%E7%94%B5%E6%B5%81%E8%88%B5%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -39,7 +39,7 @@ NOVA的舵机模块是专为驱动舵机而设计的，采用大电流MP1584芯�
 
 ## 相关资源
 
-[MP1584芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/舵机驱动-MP1584.PDF)
+[MP1584芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E8%88%B5%E6%9C%BA%E9%A9%B1%E5%8A%A8-MP1584.PDF)
 
 ## 常见问题
 

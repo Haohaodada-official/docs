@@ -29,7 +29,7 @@ LCD模块将LCD屏镶嵌在PCB上，与arduino主控板连接后即可轻松实�
 
 ## 原理图
 
-[LCD1602显示模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/LCD1602模块.pdf)
+[LCD1602显示模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/LCD1602%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -37,7 +37,7 @@ LCD模块将LCD屏镶嵌在PCB上，与arduino主控板连接后即可轻松实�
 
 ## 相关资源
 
-[PCF8574A芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/LCD-PCF8574A.PDF)
+[PCF8574A芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/LCD-PCF8574A.PDF)
 
 ## 常见问题
 

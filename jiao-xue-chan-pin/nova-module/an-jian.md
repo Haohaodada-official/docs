@@ -28,7 +28,7 @@ Nova的单按键模块，可输出一个高低电平，按键没有按下时是�
 
 ## 原理图
 
-[单按键模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/单按键.pdf)
+[单按键模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%8D%95%E6%8C%89%E9%94%AE.pdf)
 
 ## 尺寸说明
 

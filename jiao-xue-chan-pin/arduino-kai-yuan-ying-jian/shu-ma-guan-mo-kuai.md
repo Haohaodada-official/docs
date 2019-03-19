@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[数码管模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/4位数码管模块.pdf)
+[数码管模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/4%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 
@@ -37,7 +37,7 @@
 
 ## 相关资源
 
-[TM1650芯片手册](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/主要芯片说明书/数码管-TM1650.PDF)
+[TM1650芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E6%95%B0%E7%A0%81%E7%AE%A1-TM1650.PDF)
 
 ## 常见问题
 

@@ -29,7 +29,7 @@ NOVA一氧化碳传感器MQ-7模块是用于一氧化碳气体泄漏检测，其
 
 ## 原理图
 
-[MQ7传感器模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/MQ传感器底座.pdf)
+[MQ7传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/MQ%E4%BC%A0%E6%84%9F%E5%99%A8%E5%BA%95%E5%BA%A7.pdf)
 
 ## 尺寸说明
 

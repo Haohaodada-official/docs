@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[激光发射模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/激光发射模块.pdf)
+[激光发射模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E6%BF%80%E5%85%89%E5%8F%91%E5%B0%84%E6%A8%A1%E5%9D%97.pdf)
 
 ## 尺寸说明
 

@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[土壤湿度模块原理图](https://github.com/Haohaodada-official/haohaodada-docs/blob/master/原理图/土壤湿度传感器.pdf)
+[土壤湿度模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%9C%9F%E5%A3%A4%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)
 
 ## 尺寸说明
 
