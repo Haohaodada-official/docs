@@ -37,19 +37,19 @@
 
 Step 1:将牛眼轮与外壳连接。
 
-![](../../.gitbook/assets/jiqiren-1.png)
+![](../../.gitbook/assets/jiqiren-1.jpg)
 
 Step 2:将WIFI模块与主板相连。
 
-![](../../.gitbook/assets/jiqiren-2.png)
+![](../../.gitbook/assets/jiqiren-2.jpg)
 
 Step 3：将电池与主板通过锂电池接口连接。
 
-![](../../.gitbook/assets/jiqiren-3.png)
+![](../../.gitbook/assets/jiqiren-3.jpg)
 
 Step 4：将电机与主板通过接口连接，并且固定在外壳
 
-![](../../.gitbook/assets/jiqiren-4.png)
+![](../../.gitbook/assets/jiqiren-4.jpg)
 
 Step 5：盖上外壳，机器人即组装完毕。按下电源键，电源指示灯亮，通过无线编程即可使机器人做出相应的动作。
 

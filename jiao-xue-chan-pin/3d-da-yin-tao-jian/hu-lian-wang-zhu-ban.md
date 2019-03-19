@@ -31,15 +31,13 @@ Step 1：将电池与主板通过锂电池接口连接。
 
 Step 2：主板与电池一起放入外壳的相应位置。
 
-![](../../.gitbook/assets/hulianwang-2.png)
+![](../../.gitbook/assets/hulianwang-2.jpg)
 
 Step 3：盖上顶盖，互联网套件即组装完毕。
 
-![](../../.gitbook/assets/hulianwang-3.png)
+![](../../.gitbook/assets/hulianwang-3.jpg)
 
 Step 4：按下电源键，电源指示灯亮，通过无线下载程序后，OLED屏即可显示。
-
-![](../../.gitbook/assets/hulianwang-4.png)
 
 ## 示例代码
 

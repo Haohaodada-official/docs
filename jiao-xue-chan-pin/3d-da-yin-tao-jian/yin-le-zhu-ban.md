@@ -33,27 +33,23 @@
 
 Step 1：将喇叭与主板通过接口连接。
 
-![](../../.gitbook/assets/yinyue-1.png)
+![](../../.gitbook/assets/yinyue-1.jpg)
 
 Step 2：将SD卡插入卡槽。
 
-![](../../.gitbook/assets/yinyue-2.png)
+![](../../.gitbook/assets/yinyue-2.jpg)
 
-Step 3：将电池与主板通过锂电池接口连接。
+Step 3：将电池与主板通过锂电池接口连接,将wifi模块与主板通过排母接口连接。
 
-![](../../.gitbook/assets/yinyue-3.png)
+![](../../.gitbook/assets/yinyue-3.jpg)
 
-Step 4：将wifi模块与主板通过排母接口连接。
+Step 4：将主板，电池，喇叭放在外壳的相应位置。
 
-![](../../.gitbook/assets/yinyue-4.png)
+![](../../.gitbook/assets/yinyue-5.jpg)
 
-Step 5：将主板，电池，喇叭放在外壳的相应位置。
+Step 5：盖上顶盖，音乐盒即组装完毕。按下电源键，电源指示灯亮，无线下载程序，即可播放音乐。
 
-![](../../.gitbook/assets/yinyue-5.png)
-
-Step 6：盖上顶盖，音乐盒即组装完毕。按下电源键，电源指示灯亮，无线下载程序，即可播放音乐。
-
-![](../../.gitbook/assets/yinyue-6.png)
+![](../../.gitbook/assets/yinyue-6.jpg)
 
 ## 示例代码
 
