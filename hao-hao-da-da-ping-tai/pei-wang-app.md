@@ -1,29 +1,30 @@
 # 配网APP
 
-#### 下载好搭配网app。
+## 下载好搭配网app。
 
-##### ios端
+### ios端
 
 打开app store搜索好搭配网并下载
 
-![](../../.gitbook/assets/apppeiwang-1.jpg)
+![](../.gitbook/assets/apppeiwang-1.jpg)
 
-##### 安卓端
+### 安卓端
 
-[点击此处](https://github.com/Haohaodada-official/docs/blob/master/hao-hao-da-da-ping-tai/apk/%E5%A5%BD%E6%90%AD%E9%85%8D%E7%BD%91.apk)下载好搭配网app
+[点击此处](https://github.com/Haohaodada-official/docs/blob/master/hao-hao-da-da-ping-tai/apk/好搭配网.apk)下载好搭配网app
 
-#### 设备进入网络配置模式
+## 设备进入网络配置模式
 
 不同设备怎么进入网络配置模式，请查看具体设备说明文档
 
-#### 打开好搭配网app，进入如下界面
+## 打开好搭配网app，进入如下界面
 
-![](../../.gitbook/assets/apppeiwang-3.jpg)
+![](../.gitbook/assets/apppeiwang-3.jpg)
 
-#### 打开手机wifi，连接需配网设备。
+## 打开手机wifi，连接需配网设备。
 
-![](../../.gitbook/assets/apppeiwang-2.png)
+![](../.gitbook/assets/apppeiwang-2.png)
 
-#### 回到好搭配网app，选择设备按键后面显示已连接设备mac地址，输入wifi名称及密码，点击配置wifi键，即可对设备配网。
+## 回到好搭配网app，选择设备按键后面显示已连接设备mac地址，输入wifi名称及密码，点击配置wifi键，即可对设备配网。
 
-![](../../.gitbook/assets/apppeiwang-4.PNG)
+![](../.gitbook/assets/apppeiwang-4.PNG)
+

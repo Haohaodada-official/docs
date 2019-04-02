@@ -28,7 +28,7 @@ NOVA的倾斜开关SW-200D，一端是金色导针，是导通触发端；另一
 
 ## 原理图
 
-[倾斜开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%80%BE%E6%96%9C%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97.pdf)
+[倾斜开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/倾斜开关模块.pdf)
 
 ## 尺寸说明
 

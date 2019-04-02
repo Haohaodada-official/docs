@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[亮度传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%85%89%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
+[亮度传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/光线传感器模块.pdf)
 
 ## 尺寸说明
 
@@ -37,7 +37,7 @@
 
 ## 相关资源
 
-[光敏电阻数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E4%BA%AE%E5%BA%A6-%E5%85%89%E6%95%8F%E7%94%B5%E9%98%BB.PDF)
+[光敏电阻数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/亮度-光敏电阻.PDF)
 
 ## 常见问题
 

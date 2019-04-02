@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[电位器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E7%94%B5%E4%BD%8D%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
+[电位器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/电位器模块.pdf)
 
 ## 尺寸说明
 
@@ -37,7 +37,7 @@
 
 ## 相关资源
 
-[电位器数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E7%94%B5%E4%BD%8D%E5%99%A8-%E7%94%B5%E4%BD%8D%E5%99%A8.PDF)
+[电位器数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/电位器-电位器.PDF)
 
 ## 常见问题
 

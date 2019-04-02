@@ -29,7 +29,7 @@ NOVA烟雾传感器MQ-2模块是用于测量空气中的烟雾，其灵敏度高
 
 ## 原理图
 
-[MQ2传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/MQ%E4%BC%A0%E6%84%9F%E5%99%A8%E5%BA%95%E5%BA%A7.pdf)
+[MQ2传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/MQ传感器底座.pdf)
 
 ## 尺寸说明
 

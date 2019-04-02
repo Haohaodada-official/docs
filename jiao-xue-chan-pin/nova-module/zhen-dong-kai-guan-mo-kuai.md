@@ -37,7 +37,7 @@ NOVA的震动模块SW420，是一种常闭开关。有震动时开关内部断�
 
 ## 原理图
 
-[震动开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E9%9C%87%E5%8A%A8%E5%BC%80%E5%85%B3%E6%A8%A1%E5%9D%97.pdf)
+[震动开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/震动开关模块.pdf)
 
 ## 尺寸说明
 

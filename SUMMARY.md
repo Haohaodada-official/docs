@@ -168,6 +168,7 @@
   * [月球灯](jiao-xue-chan-pin/3d-da-yin-tao-jian/yue-qiu-deng.md)
 * [好搭磁性电子积木](jiao-xue-chan-pin/hao-da-ci-xing-dian-zi-ji-mu.md)
 * [科学探究套件](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian.md)
+* [KT板套件](jiao-xue-chan-pin/kt-ban-tao-jian.md)
 
 ## 造物产品
 
@@ -175,10 +176,6 @@
 * [Core-α](zao-wu-chan-pin/core-a.md)
 * [Core-β](zao-wu-chan-pin/core-v.md)
 * [Core-γ](zao-wu-chan-pin/core-g.md)
-* [CoreLink-USB](zao-wu-chan-pin/corelink-usb.md)
-* [CoreLink-WiFi](zao-wu-chan-pin/corelink-wifi.md)
-* [CoreLink-BLE](zao-wu-chan-pin/corelink-ble.md)
-* [CoreLink-Flash](zao-wu-chan-pin/corelink-flash.md)
 
 ## 编程语法
 

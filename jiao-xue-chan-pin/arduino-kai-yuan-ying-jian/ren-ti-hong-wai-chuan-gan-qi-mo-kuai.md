@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[人体红外传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E4%BA%BA%E4%BD%93%E7%BA%A2%E5%A4%96%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
+[人体红外传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/人体红外传感器模块.pdf)
 
 ## 尺寸说明
 

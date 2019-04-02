@@ -27,7 +27,7 @@
 
 ## 原理图
 
-[音频录放模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E9%9F%B3%E9%A2%91%E5%BD%95%E6%92%AD%E6%A8%A1%E5%9D%97.pdf)
+[音频录放模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/音频录播模块.pdf)
 
 ## 尺寸说明
 
@@ -35,7 +35,7 @@
 
 ## 相关资源
 
-[8002芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E9%9F%B3%E9%A2%91%E5%BD%95%E6%94%BE-.PDF)
+[8002芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/音频录放-.PDF)
 
 ## 常见问题
 

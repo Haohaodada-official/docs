@@ -28,7 +28,7 @@ NOVA的数码管计时模块可以用来显示时间。配套的驱动程序，�
 
 ## 原理图
 
-[4位计时数码管模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/4%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97.pdf)
+[4位计时数码管模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/4位数码管模块.pdf)
 
 ## 尺寸说明
 
@@ -36,7 +36,7 @@ NOVA的数码管计时模块可以用来显示时间。配套的驱动程序，�
 
 ## 相关资源
 
-[TM1650芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E6%95%B0%E7%A0%81%E7%AE%A1-TM1650.PDF)
+[TM1650芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/数码管-TM1650.PDF)
 
 ## 常见问题
 

@@ -29,7 +29,7 @@ LCD模块将LCD屏镶嵌在PCB上，与arduino主控板连接后即可轻松实�
 
 ## 原理图
 
-[LCD1602显示模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/LCD1602%E6%A8%A1%E5%9D%97.pdf)
+[LCD1602显示模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/LCD1602模块.pdf)
 
 ## 尺寸说明
 

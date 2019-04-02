@@ -27,7 +27,7 @@
 
 ## 原理图
 
-[点阵模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E7%82%B9%E9%98%B5%E6%A8%A1%E5%9D%97.pdf)
+[点阵模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/点阵模块.pdf)
 
 ## 尺寸说明
 
@@ -35,7 +35,7 @@
 
 ## 相关资源
 
-[HT16K33芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E7%82%B9%E9%98%B5-HT16K33.PDF)
+[HT16K33芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/点阵-HT16K33.PDF)
 
 ## 常见问题
 

@@ -32,7 +32,7 @@
 
 ## 原理图
 
-[火焰传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E7%81%AB%E7%84%B0%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97.pdf)
+[火焰传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/火焰传感器模块.pdf)
 
 ## 尺寸说明
 

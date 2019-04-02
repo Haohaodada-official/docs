@@ -31,7 +31,7 @@ NOVA的单路电机模块，可以实现单路电机的方向控制，支持PWM�
 
 ## 原理图
 
-[单路电机驱动模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E5%8D%95%E8%B7%AF%E7%94%B5%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%A8%A1%E5%9D%97.pdf)
+[单路电机驱动模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/单路电机驱动模块.pdf)
 
 ## 尺寸说明
 

@@ -25,7 +25,7 @@
 
 ## 原理图
 
-[颜色传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E9%A2%9C%E8%89%B2%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)
+[颜色传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/颜色传感器.pdf)
 
 ## 尺寸说明
 

@@ -23,7 +23,7 @@
 
 ## 原理图
 
-[上拉扩展模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/%E4%B8%8A%E6%8B%89%E6%89%A9%E5%B1%95%E6%A8%A1%E5%9D%97.pdf)
+[上拉扩展模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/上拉扩展模块.pdf)
 
 ## 尺寸说明
 
