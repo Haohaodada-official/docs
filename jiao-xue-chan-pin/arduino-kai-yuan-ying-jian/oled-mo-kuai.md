@@ -21,7 +21,7 @@ OLED模块是一款无需背景光源，自发光式的显示模块，可通过�
 
 ## 示例代码
 
-![](../../.gitbook/assets/arduino-198.png)
+![](../../.gitbook/assets/arduino-92.png)
 
 ![](../../.gitbook/assets/arduino-49.png)
 
