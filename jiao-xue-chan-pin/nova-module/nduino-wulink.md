@@ -45,17 +45,17 @@ U盘下载模式：
 
 1.将主板与电脑连接，电脑显示U盘：
 
-![](../../.gitbook/assets/Nduino-Wulink-1.png)
+![](../../.gitbook/assets/nduino-wulink-1.png)
 
 2.进入好好搭搭网站创作界面，进入nova编程界面或[单击此处](http://www.haohaodada.com/show.php?id=1067977)进入编程界面
 
 3.编写程序并点击编译下载，弹出如下对话框并点击保存。
 
-![](../../.gitbook/assets/Nduino-Wulink-2.png)
+![](../../.gitbook/assets/nduino-wulink-2.png)
 
-4.选择保存路径为haohaodada U盘，修改文件名称为****.hex形式，点击保存即可下载。
+4.选择保存路径为haohaodada U盘，修改文件名称为_\*\*_.hex形式，点击保存即可下载。
 
-![](../../.gitbook/assets/Nduino-Wulink-3.png)
+![](../../.gitbook/assets/nduino-wulink-3.png)
 
 ## 原理图
 

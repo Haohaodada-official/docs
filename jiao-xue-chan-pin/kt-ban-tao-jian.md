@@ -1,6 +1,6 @@
 # KT板套件
 
-![](../../.gitbook/assets/wulink-nova-1.png)
+![](../.gitbook/assets/wulink-nova-1.png)
 
 ## 概述
 
@@ -54,3 +54,4 @@ WULink-Nova是在nova的HD板与小车板的基础之上，增加了无线网卡
 一般路由建议不要超过10台设备。
 
 4.怎么解绑MAC地址 在原来绑定的账号里删除即可，如果忘记原来帐号，请联系技术支持。
+

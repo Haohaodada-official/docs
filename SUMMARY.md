@@ -169,6 +169,7 @@
 * [好搭磁性电子积木](jiao-xue-chan-pin/hao-da-ci-xing-dian-zi-ji-mu.md)
 * [科学探究套件](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian.md)
 * [KT板套件](jiao-xue-chan-pin/kt-ban-tao-jian.md)
+* [徽章板](jiao-xue-chan-pin/hui-zhang-ban.md)
 
 ## 造物产品
 
