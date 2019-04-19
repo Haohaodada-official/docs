@@ -1,6 +1,7 @@
 # Core-α
 
 ## 概述
+
 Haoda Core-α是一款针对造物的核心板，引出8个通用IO口，板载8个RGB，支持导线、导电胶带、导电缝纫线、鳄鱼夹多种连接方式，支持U盘下载模式。配合3D打印、粘土、卡纸、织物等可以制作各种创意作品。
 
 ## 性能参数
@@ -18,19 +19,19 @@ Haoda Core-α是一款针对造物的核心板，引出8个通用IO口，板载8
 
 1.鳄鱼夹
 
-![](../../.gitbook/assets/core-1.PNG)
+![](../../.gitbook/assets/core-1.png)
 
 2.单股硬线
 
-![](../../.gitbook/assets/core-2.PNG)
+![](../../.gitbook/assets/core-2.png)
 
 3.导电缝纫线
 
-![](../../.gitbook/assets/core-3.PNG)
+![](../../.gitbook/assets/core-3.png)
 
 4.导电胶布
 
-![](../../.gitbook/assets/core-4.PNG)
+![](../../.gitbook/assets/core-4.png)
 
 ```text
 注：可缝纫导电线与每个端口连接至少缠绕3圈
@@ -38,7 +39,7 @@ Haoda Core-α是一款针对造物的核心板，引出8个通用IO口，板载8
 
 5.焊接
 
-![](../../.gitbook/assets/core-5.PNG)
+![](../../.gitbook/assets/core-5.png)
 
 ## 编程方式
 1.将haoda core-α主板通过USB连接线与电脑连接，电脑显示检测到U盘。
