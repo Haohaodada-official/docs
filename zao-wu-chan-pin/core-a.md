@@ -44,7 +44,7 @@ Haoda Core-α是一款针对造物的核心板，引出8个通用IO口，板载8
 ## 编程方式
 1.将haoda core-α主板通过USB连接线与电脑连接，电脑显示检测到U盘。
 
-![](../../.gitbook/assets/Nduino-Wulink-1.png)
+![](../../.gitbook/assets/nduino-wulink-1.png)
 
 2.进入好好搭搭网站创作界面或[点击此处](http://www.haohaodada.com/Core/)进入核心板编程界面
 
