@@ -10,7 +10,7 @@
 
 ### 安卓端
 
-[点击此处](https://github.com/Haohaodada-official/docs/blob/master/hao-hao-da-da-ping-tai/apk/好搭配网.apk)下载好搭配网app
+[点击此处](http://www.haohaodada.com/haodapeiwang.apk)下载好搭配网app
 
 ## 设备进入网络配置模式
 
