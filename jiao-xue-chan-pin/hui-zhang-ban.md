@@ -4,7 +4,7 @@
 
 徽章板带有11×44点阵屏，能够显示中英文字符以及图案。集成了2.4G无线模块，可以实现无线通信功能。同时引出了2路PWM，2路AD和1路I2C与UART共用通道，方便用户自己扩展应用。
 
-![](../../.gitbook/assets/huizhang-1.png)
+![](../.gitbook/assets/huizhang-1.png)
 
 ## 性能参数
 
@@ -19,7 +19,7 @@
 
 ## 接口说明
 
-![](../../.gitbook/assets/huizhang-2.png)
+![](../.gitbook/assets/huizhang-2.png)
 
 ```text
 注：红色标志为反面接口
@@ -47,6 +47,7 @@
 
 ## 编程界面
 
-http://haohaodada.com/hz/
+[http://haohaodada.com/hz/](http://haohaodada.com/hz/)
 
 ## 相关资料
+

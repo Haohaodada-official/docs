@@ -155,8 +155,7 @@
 * [PythonBoard](jiao-xue-chan-pin/pythonboard.md)
 * [掌控](jiao-xue-chan-pin/hand-bit/README.md)
   * [掌控板刷好搭固件](jiao-xue-chan-pin/hand-bit/zhang-kong-ban-shua-hao-da-gu-jian.md)
-  * [掌控扩展板](jiao-xue-chan-pin/hand-bit/zhang-kong-kuo-zhan-ban.md)
-  * [掌控+](jiao-xue-chan-pin/hand-bit/zhang-kong-+.md)
+  * [掌控BOX](jiao-xue-chan-pin/hand-bit/zhang-kong-+.md)
 * [3D打印套件](jiao-xue-chan-pin/3d-da-yin-tao-jian/README.md)
   * [时钟主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/shi-zhong-zhu-ban.md)
   * [音乐主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/yin-le-zhu-ban.md)
@@ -167,16 +166,15 @@
   * [灯光主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/deng-guang-zhu-ban.md)
   * [月球灯](jiao-xue-chan-pin/3d-da-yin-tao-jian/yue-qiu-deng.md)
 * [好搭磁性电子积木](jiao-xue-chan-pin/hao-da-ci-xing-dian-zi-ji-mu.md)
-* [科学探究套件](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian.md)
+* [数字科学家](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian.md)
 * [KT板套件](jiao-xue-chan-pin/kt-ban-tao-jian.md)
 * [徽章板](jiao-xue-chan-pin/hui-zhang-ban.md)
+* [好搭Bit](jiao-xue-chan-pin/hao-da-bit.md)
 
 ## 造物产品
 
 * [WuLink-Nano](zao-wu-chan-pin/wulink-nano.md)
-* [Core-α](zao-wu-chan-pin/core-a.md)
-* [Core-β](zao-wu-chan-pin/core-v.md)
-* [Core-γ](zao-wu-chan-pin/core-g.md)
+* [好搭酷](zao-wu-chan-pin/haodacore.md)
 
 ## 编程语法
 
