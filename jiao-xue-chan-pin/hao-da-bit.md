@@ -48,7 +48,9 @@
 
 ![](../.gitbook/assets/haodabit-7.png)
 
-6.在搜索栏输入如下网址https://github.com/Haohaodada-official/pxt-HaodaBit.git，点击搜索得到扩展包。
+6.在搜索栏输入如下网址，点击搜索得到扩展包。
+
+https://github.com/Haohaodada-official/pxt-HaodaBit.git
 
 ![](../.gitbook/assets/haodabit-8.png)
 
