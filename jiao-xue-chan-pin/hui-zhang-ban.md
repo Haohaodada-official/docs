@@ -25,10 +25,6 @@
 
 ![](../.gitbook/assets/huizhang-4.png)
 
-```text
-注：红色标志为反面接口
-```
-
 ## 按键和指示灯说明
 
 ### USB未连接时
