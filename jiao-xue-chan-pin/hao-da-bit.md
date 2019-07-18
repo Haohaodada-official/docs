@@ -68,6 +68,6 @@
 
 ![](../.gitbook/assets/haodabit-12.png)
 
-下载后LED指示灯闪烁，下载完成即LED灯常亮。好搭bit点阵屏显示笑脸。
+9.下载完成即LED灯常亮，好搭bit点阵屏显示笑脸。
 
 ## 常见问题
