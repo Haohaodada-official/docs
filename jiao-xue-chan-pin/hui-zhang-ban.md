@@ -21,6 +21,10 @@
 
 ![](../.gitbook/assets/huizhang-2.png)
 
+## 扩展板接口说明
+
+![](../.gitbook/assets/huizhang-4.png)
+
 ```text
 注：红色标志为反面接口
 ```
@@ -45,9 +49,46 @@
 
 绿色指示灯常亮，红色指示灯灭：锂电池已充满电。
 
+## 使用方式
+
+1.使用USB线，将徽章板与计算机连接起来。将徽章板拨动开关拨到下方，红色LED灯与绿色LED灯均亮起。
+
+2.按下复位键，徽章板进入U盘下载模式，计算机检测到U盘接入。
+
+![](../.gitbook/assets/haodabit-3.png)
+
+3.[单击此处](http://www.haohaodada.com)进入“好好搭搭”网站，登录并点击进入创作界面。（如果没有账号，请先注册）。
+
+![](../.gitbook/assets/huizhang-3.png)
+
+4.下拉选择徽章板编程界面，点击进入。
+
+![](../.gitbook/assets/huizhang-5.png)
+
+5.进入徽章板编程界面，编程后点击下载到设备。弹出对话框，阅读后点击确定。
+
+![](../.gitbook/assets/huizhang-6.png)
+
+![](../.gitbook/assets/huizhang-7.png)
+
+示例程序：
+
+![](../.gitbook/assets/huizhang-9.png)
+
+6.选择下载路径为haohaodada U盘并下载，下载成功后U盘自动弹出。
+
+![](../.gitbook/assets/huizhang-8.png)
+
+7.程序下载成功，点阵屏显示爱心。
+
+
 ## 编程界面
 
 [http://haohaodada.com/hz/](http://haohaodada.com/hz/)
 
-## 相关资料
+## 常见问题
+
+Q：下载后，U盘自动弹出，如何再次下载程序？
+
+A：按下徽章板复位按键，计算机再次检测到U盘，即可再次下载程序
 
