@@ -32,7 +32,7 @@
 
 ![](../.gitbook/assets/haodabit-3.png)
 
-2.[单击此处](www.haohaodada.com)进入好好搭搭网站，登录并点击进入创作界面。
+2.[单击此处](http://www.haohaodada.com)进入好好搭搭网站，登录并点击进入创作界面。
 
 ![](../.gitbook/assets/haodabit-4.png)
 
