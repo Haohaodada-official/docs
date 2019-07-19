@@ -47,21 +47,25 @@
 
 ## 使用方式
 
-1.使用USB线，将徽章板与计算机连接起来。将徽章板拨动开关拨到下方，红色LED灯与绿色LED灯均亮起。
+1.U盘下载模式-浏览器下载路径设置方法。
 
-2.按下复位键，徽章板进入U盘下载模式，计算机检测到U盘接入。
+{% page-ref page="../../hao-hao-da-da-ping-tai/lan-qi.md" %}
+
+2.使用USB线，将徽章板与计算机连接起来。将徽章板拨动开关拨到下方，红色LED灯与绿色LED灯均亮起。
+
+3.按下复位键，徽章板进入U盘下载模式，计算机检测到U盘接入。
 
 ![](../.gitbook/assets/haodabit-3.png)
 
-3.[单击此处](http://www.haohaodada.com)进入“好好搭搭”网站，登录并点击进入创作界面。（如果没有账号，请先注册）。
+4.[单击此处](http://www.haohaodada.com)进入“好好搭搭”网站，登录并点击进入创作界面。（如果没有账号，请先注册）。
 
 ![](../.gitbook/assets/huizhang-3.png)
 
-4.下拉选择徽章板编程界面，点击进入。
+5.下拉选择徽章板编程界面，点击进入。
 
 ![](../.gitbook/assets/huizhang-5.png)
 
-5.进入徽章板编程界面，编程后点击下载到设备。弹出对话框，阅读后点击确定。
+6.进入徽章板编程界面，编程后点击下载到设备。弹出对话框，阅读后点击确定。
 
 ![](../.gitbook/assets/huizhang-6.png)
 
@@ -71,16 +75,16 @@
 
 ![](../.gitbook/assets/huizhang-9.png)
 
-6.选择下载路径为haohaodada U盘并下载，下载成功后U盘自动弹出。
+7.选择下载路径为haohaodada U盘并下载，下载成功后U盘自动弹出。
 
 ![](../.gitbook/assets/huizhang-8.png)
 
-7.程序下载成功，点阵屏显示爱心。
+8.程序下载成功，点阵屏显示爱心。
 
 
 ## 编程界面
 
-[http://haohaodada.com/hz/](http://haohaodada.com/hz/)
+[点击此处](http://haohaodada.com/hz/)进入徽章板编程界面。
 
 ## 常见问题
 
