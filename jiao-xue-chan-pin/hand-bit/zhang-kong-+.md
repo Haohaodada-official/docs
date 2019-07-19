@@ -4,7 +4,7 @@
 
 掌控box是一块microPython微控制器板，可以通过编程来配合OLED屏实现各种功能的显示，板载了按键、RGB灯、温度传感器、光线传感器、声音传感器、加速度传感器、双路电机驱动、锂电池管理系统并添加外接扩展接口，兼容乐高结构，可轻松造物，实现炫酷的小发明。
 
-![](../.gitbook/assets/zhangkongbox-1.PNG)
+![](../.gitbook/assets/zhangkongbox-1.png)
 
 ## 性能参数
 
