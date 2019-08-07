@@ -155,7 +155,7 @@
 * [PythonBoard](jiao-xue-chan-pin/pythonboard.md)
 * [掌控](jiao-xue-chan-pin/hand-bit/README.md)
   * [掌控板刷好搭固件](jiao-xue-chan-pin/hand-bit/zhang-kong-ban-shua-hao-da-gu-jian.md)
-  * [掌控BOX](jiao-xue-chan-pin/hand-bit/zhang-kong-+.md)
+  * [WULink-Python](jiao-xue-chan-pin/hand-bit/zhang-kong-+.md)
 * [3D打印套件](jiao-xue-chan-pin/3d-da-yin-tao-jian/README.md)
   * [时钟主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/shi-zhong-zhu-ban.md)
   * [音乐主板](jiao-xue-chan-pin/3d-da-yin-tao-jian/yin-le-zhu-ban.md)
