@@ -15,9 +15,9 @@
 * 输入电压：DC 3-5V
 * 处 理 器：32位ARM Cotext-M0芯片 64K Flash 8K RAM
 * 接口类型：PH2.0
-* 端    口：2路PWM接口，2路AD接口，2路I2C/UART接口
+* 端        口：2路PWM接口，2路AD接口，2路I2C/UART接口
 * 下载方式：U盘下载模式
-* 尺    寸：40x40mm
+* 尺        寸：40x40mm
 
 ## 接口说明
 
