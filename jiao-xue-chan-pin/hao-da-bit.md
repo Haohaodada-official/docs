@@ -37,7 +37,7 @@
 
 1.使用USB线连接好搭bit与计算机，按下好搭bit电源键，计算机检测到U盘接入。
 
-![](../.gitbook/assets/haodabit-3.png)
+![](../.gitbook/assets/haodabitt-1.png)
 
 2.[单击此处](http://www.haohaodada.com)进入好好搭搭网站，登录并点击进入创作界面。
 
@@ -75,7 +75,7 @@ https://github.com/Haohaodada-official/pxt-HaodaBit.git
 
 选择下载路径为haohaodada U盘，点击保存，好搭bit的LED灯闪烁后，LED灯常亮表示程序下载完成。
 
-![](../.gitbook/assets/haodabit-12.png)
+![](../.gitbook/assets/haodabitt-2.png)
 
 9.下载完成即LED灯常亮，好搭bit点阵屏显示笑脸。
 
