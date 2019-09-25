@@ -27,3 +27,4 @@ IE浏览器不支持，支持的浏览器有Chrom、360浏览器、Firefox，我
 4.在下载内容栏，勾选-下载前询问每个文件的保存位置。
 
 ![](../.gitbook/assets/liulanqi-4.png)
+

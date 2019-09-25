@@ -28,7 +28,7 @@ WULink-Python是一块microPython微控制器板，可以通过编程来配合OL
 
 WULink-Python刷好搭固件和联网配置方式与掌控板刷好搭固件一致，点击下方查看具体操作步骤。
 
-{% page-ref page="../../jiao-xue-chan-pin/hand-bit/zhang-kong-ban-shua-hao-da-gu-jian.md" %}
+{% page-ref page="zhang-kong-ban-shua-hao-da-gu-jian.md" %}
 
 ## 程序下载
 
@@ -57,3 +57,4 @@ WULink-Python刷好搭固件和联网配置方式与掌控板刷好搭固件一�
 [点击此处](http://haohaodada.com/video/zk01.php)查看教程视频第一课烧写物联网固件与编写第一个程序
 
 ## 常见问题
+

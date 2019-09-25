@@ -52,7 +52,7 @@
 
 徽章板采用U盘下载模式下载程序，点击下方查看浏览器下载路径设置方法。
 
-{% page-ref page="../../hao-hao-da-da-ping-tai/lan-qi.md" %}
+{% page-ref page="../hao-hao-da-da-ping-tai/lan-qi.md" %}
 
 ### 程序下载
 
@@ -85,7 +85,6 @@
 ![](../.gitbook/assets/huizhang-8.png)
 
 7.程序下载成功，点阵屏显示爱心。
-
 
 ## 编程界面
 

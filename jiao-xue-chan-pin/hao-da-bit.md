@@ -31,7 +31,7 @@
 
 好搭bit采用U盘下载模式下载程序，点击下方查看浏览器下载路径设置方法。
 
-{% page-ref page="../../hao-hao-da-da-ping-tai/lan-qi.md" %}
+{% page-ref page="../hao-hao-da-da-ping-tai/lan-qi.md" %}
 
 ### 程序下载
 
@@ -57,7 +57,7 @@
 
 6.在搜索栏输入如下网址，点击搜索得到扩展包。
 
-https://github.com/Haohaodada-official/pxt-HaodaBit.git
+[https://github.com/Haohaodada-official/pxt-HaodaBit.git](https://github.com/Haohaodada-official/pxt-HaodaBit.git)
 
 ![](../.gitbook/assets/haodabit-8.png)
 
@@ -80,3 +80,4 @@ https://github.com/Haohaodada-official/pxt-HaodaBit.git
 9.下载完成即LED灯常亮，好搭bit点阵屏显示笑脸。
 
 ## 常见问题
+

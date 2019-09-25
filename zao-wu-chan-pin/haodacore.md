@@ -37,7 +37,7 @@
 
 好搭酷采用U盘下载模式下载程序，点击下方查看浏览器下载路径设置方法。
 
-{% page-ref page="../../hao-hao-da-da-ping-tai/lan-qi.md" %}
+{% page-ref page="../hao-hao-da-da-ping-tai/lan-qi.md" %}
 
 ### 程序下载
 
