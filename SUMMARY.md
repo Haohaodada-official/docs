@@ -18,6 +18,7 @@
   * [好好搭搭Scratch Arduino 2.0](hao-hao-da-da-ping-tai/li-xian-ban/scratch-arduino2.0.md)
   * [Mixly For WuHan](hao-hao-da-da-ping-tai/li-xian-ban/mixly-for-wuhan.md)
 * [远程协助软件](hao-hao-da-da-ping-tai/yuan-cheng-xie-zhu-ruan-jian.md)
+* [PC端配网工具](hao-hao-da-da-ping-tai/wifi_tools.md)
 * [配网APP](hao-hao-da-da-ping-tai/pei-wang-app.md)
 
 ## 在线入门课程
@@ -176,7 +177,13 @@
   * [水泵](jiao-xue-chan-pin/ke-xue-tan-jiu-tao-jian/shui-beng.md)
 * [KT板套件](jiao-xue-chan-pin/kt-ban-tao-jian.md)
 * [徽章板](jiao-xue-chan-pin/hui-zhang-ban.md)
-* [好搭Bit](jiao-xue-chan-pin/hao-da-bit.md)
+* [好搭Bit](jiao-xue-chan-pin/hao-da-bit/README.md)
+  * [Scratch3.0互动编程](jiao-xue-chan-pin/hao-da-bit/scratch3.0-hu-dong-bian-cheng.md)
+  * [MakeCode](jiao-xue-chan-pin/hao-da-bit/makecode.md)
+  * [Mind+](jiao-xue-chan-pin/hao-da-bit/mind+.md)
+  * [KittenBlock](jiao-xue-chan-pin/hao-da-bit/kittenblock.md)
+  * [MU Python编程](jiao-xue-chan-pin/hao-da-bit/mu-python-bian-cheng.md)
+  * [APP 移动端编程](jiao-xue-chan-pin/hao-da-bit/app-yi-dong-duan-bian-cheng.md)
 
 ## 造物产品
 

@@ -3,7 +3,7 @@
 {% hint style="info" %}
 使用过程中遇到问题，提问时，可以拍个电路连接照片、程序截图、遇到的问题一 起说下。方便别人看到时能快速回答。 我们鼓励大家多交流分享，所以尽量在群里讨论，不要私聊。因为你遇到的问题， 也许别人已经遇到过，看到了能很快回答。一起探讨的问题，也可以让其他人学习。
 
-提问方面的方法可以看看Eric S. Raymond, Rick Moen 所著的[《How to ask questions the smart way》](https://github.com/Blue-Design/How-To-Ask-Questions-The-Smart-Way)。
+ 提问方面的方法可以看看Eric S. Raymond, Rick Moen 所著的[《How to ask questions the smart way》](https://github.com/Blue-Design/How-To-Ask-Questions-The-Smart-Way)。
 
 好好搭搭交流一群：346580874\(满员\)；
 
@@ -39,6 +39,4 @@ WU-Link应用群：656213711；
 5. 端口号是否选择正确？
 6. 主板类型是否选择正确？
 7. 串口监视软件是否关闭？
-
-## 技术支持111
 
