@@ -2,7 +2,7 @@
 
 ## WULink配网
 
-1.按住B键同时开机，蜂鸣器响一声，状态指示灯红色常亮，WULink进入PC端配网模式，用USB线连接WULink到电脑。
+1.按住B键同时开机，蜂鸣器响一声，状态指示灯红色常亮，WULink进入PC端配网模式，用USB线连接           WULink到电脑。
 
 2.[点击此处](http://www.haohaodada.com/zhangkongV06.rar) 下载PC端配网工具，解压文件（注意不要解压到C盘）。
 

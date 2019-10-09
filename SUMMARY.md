@@ -122,6 +122,7 @@
   * [Arduino UNO主控板](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/arduino-uno-zhu-kong-ban.md)
   * [Arduino IO扩展板](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/arduino-io-kuo-zhan-ban.md)
   * [Wulink-UNO](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/wulink-uno.md)
+  * [haodaMIDI模块](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/haodamidi-mo-kuai.md)
   * [LED灯模块](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/led-deng-mo-kuai.md)
   * [蜂鸣器模块](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/feng-ming-qi-mo-kuai.md)
   * [RGB灯模块](jiao-xue-chan-pin/arduino-kai-yuan-ying-jian/rgb-deng-mo-kuai.md)
