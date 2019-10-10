@@ -1,4 +1,4 @@
-# 基于Scratch的Arduino智能造物入门
+# 基于Scratch的Nova智能造物入门
 
 
 
