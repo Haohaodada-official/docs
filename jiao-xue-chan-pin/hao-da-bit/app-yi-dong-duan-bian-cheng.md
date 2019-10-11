@@ -20,7 +20,7 @@
 
 app端填入图案
 
-![](../../.gitbook/assets/app-bit-4.PNG)
+![](../../.gitbook/assets/app-bit-4.jpg)
 
 输入图案后，进入如下界面，直接点击“NEXT”。
 
