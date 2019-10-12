@@ -1,6 +1,6 @@
 # KittenBlock
 
-1.将好搭bit通过USB线与电脑连接，按下POWER键开机，电脑检测到名为MICROBIT的U盘。
+1.将好搭Bit通过USB线与电脑连接，按下POWER键开机，电脑检测到名为MICROBIT的U盘。
 
 ![](../../.gitbook/assets/makecode-bit-7.png)
 
