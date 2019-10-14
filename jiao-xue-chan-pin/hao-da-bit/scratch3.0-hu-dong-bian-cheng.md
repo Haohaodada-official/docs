@@ -1,10 +1,10 @@
 # Scratch3.0互动编程
 
-1.将好搭bit通过USB线与电脑连接，按下POWER键开机，电脑检测到名为MICROBIT的U盘。
+1.将好搭Bit通过USB线与电脑连接，按下POWER键开机，电脑检测到名为MICROBIT的U盘。
 
 ![](../../.gitbook/assets/makecode-bit-7%20%281%29.png)
 
-2.下载下方文件，解压并将得到的文件拖放到好搭bit中。
+2.下载下方文件，解压并将得到的文件拖放到好搭Bit中。
 
 {% file src="../../.gitbook/assets/scratch-microbit-1.1.0.hex \(1\).zip" %}
 
@@ -40,11 +40,11 @@
 
 ![](../../.gitbook/assets/scratch3-bit-6.png)
 
-点击图形快，好搭bit点阵屏显示爱心图案。 
+点击图形快，好搭Bit点阵屏显示爱心图案。 
 
 示例程序2： 
 
 ![](../../.gitbook/assets/scratch3-bit-7.png)
 
-点击右侧小绿旗，好搭bit点阵屏滚动显示Hello！。
+点击右侧小绿旗，好搭Bit点阵屏滚动显示Hello！。
 

@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/makecode-bit-7.png)
 
-2.下载下方文件，拖放到好搭bit中。
+2.下载下方文件，拖放到好搭Bit中。
 
 {% file src="../../.gitbook/assets/scratch-microbit-1.1.0.hex.zip" %}
 
@@ -34,17 +34,17 @@
 
 ![](../../.gitbook/assets/kitten-bit-5.png)
 
-7.编写程序，对好搭bit实时控制。
+7.编写程序，对好搭Bit实时控制。
 
  示例程序1：
 
 ![](../../.gitbook/assets/kitten-bit-2.png)
 
- 点击图形快，好搭bit点阵屏滚动显示Hello！。
+ 点击图形快，好搭Bit点阵屏滚动显示Hello！。
 
  示例程序2： 
 
 ![](../../.gitbook/assets/kitten-bit-1.png)
 
-点击右侧小绿旗，好搭bit点阵屏显示爱心图案。
+点击右侧小绿旗，好搭Bit点阵屏显示爱心图案。
 
