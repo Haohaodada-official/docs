@@ -26,11 +26,11 @@
 
 ## 相关资料
 
-[电子电路入门](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/电子电路入门-V2.pdf)
+{% file src="../.gitbook/assets/dian-zi-dian-lu-ru-men-v2.pdf" caption="电子电路入门-V2" %}
 
-[“好搭”电子百拼典型电路1](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/“好搭”电子百拼典型电路及说明印刷版_100417.pdf)
+{% file src="../.gitbook/assets/hao-da-dian-zi-bai-pin-dian-xing-dian-lu-ji-shuo-ming-yin-shua-ban-100417.pdf" caption="“好搭”电子典型电路1" %}
 
-[“好搭”电子百拼典型电路2](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/“好搭”电子百拼典型电路及说明印刷版_20050.pdf)
+{% file src="../.gitbook/assets/hao-da-dian-zi-bai-pin-dian-xing-dian-lu-ji-shuo-ming-yin-shua-ban-20050.pdf" caption="“好搭”电子典型电路2" %}
 
 ## 常见问题
 

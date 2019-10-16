@@ -27,7 +27,7 @@
 
 ## 原理图
 
-[音频录放模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/音频录播模块.pdf)
+{% file src="../../.gitbook/assets/yin-pin-lu-bo-mo-kuai.pdf" caption="音频录放模块原理图" %}
 
 ## 尺寸说明
 
@@ -35,7 +35,7 @@
 
 ## 相关资源
 
-[8002芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/音频录放-.PDF)
+{% file src="../../.gitbook/assets/yin-pin-lu-fang-8002.PDF" caption="8002芯片说明" %}
 
 ## 常见问题
 

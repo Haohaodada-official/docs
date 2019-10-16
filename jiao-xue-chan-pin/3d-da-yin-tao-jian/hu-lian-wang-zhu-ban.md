@@ -47,7 +47,7 @@ Step 4：按下电源键，电源指示灯亮，通过无线下载程序后，OL
 
 ## 原理图
 
-[互联网主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/互联网主板.pdf)
+{% file src="../../.gitbook/assets/hu-lian-wang-zhu-ban.pdf" caption="互联网主板原理图" %}
 
 ## 常见问题
 

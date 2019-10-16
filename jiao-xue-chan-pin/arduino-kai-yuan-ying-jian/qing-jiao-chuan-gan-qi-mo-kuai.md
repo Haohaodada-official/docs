@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[倾角传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/倾斜开关模块.pdf)
+{% file src="../../.gitbook/assets/qing-xie-kai-guan-mo-kuai \(1\).pdf" caption="倾角传感器模块原理图" %}
 
 ## 尺寸说明
 

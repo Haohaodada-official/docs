@@ -49,7 +49,7 @@ Step 4：通过无线下载程序，RGB彩灯即能根据设置好的程序亮�
 
 ## 原理图
 
-[灯光主板原理图](https://github.com/Haohaodada-official/docs/blob/master/3d-da-yin-tao-jian/pdf/灯光主板.pdf)
+{% file src="../../.gitbook/assets/deng-guang-zhu-ban.pdf" caption="灯光主板原理图" %}
 
 ## 常见问题
 

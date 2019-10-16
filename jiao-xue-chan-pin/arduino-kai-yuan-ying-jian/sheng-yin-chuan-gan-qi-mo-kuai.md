@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[声音传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/声音传感器模块.pdf)
+{% file src="../../.gitbook/assets/sheng-yin-chuan-gan-qi-mo-kuai.pdf" caption="声音传感器模块原理图" %}
 
 ## 尺寸说明
 
@@ -37,7 +37,7 @@
 
 ## 相关资源
 
-[LM2904芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/声音-LM2904.PDF)
+{% file src="../../.gitbook/assets/sheng-yin-lm2904 \(1\).PDF" caption="LM2904芯片说明" %}
 
 ## 常见问题
 

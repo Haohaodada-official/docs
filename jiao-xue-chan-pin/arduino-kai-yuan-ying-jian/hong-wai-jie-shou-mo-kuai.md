@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[红外接收模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/红外接收模块.pdf)
+{% file src="../../.gitbook/assets/hong-wai-jie-shou-mo-kuai \(1\).pdf" caption="红外接收模块原理图" %}
 
 ## 尺寸说明
 

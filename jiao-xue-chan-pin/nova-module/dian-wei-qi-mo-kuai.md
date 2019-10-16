@@ -30,15 +30,11 @@
 
 ## 原理图
 
-[电位器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/电位器模块.pdf)
+{% file src="../../.gitbook/assets/dian-wei-qi-mo-kuai \(1\).pdf" caption="电位器模块原理图" %}
 
 ## 尺寸说明
 
 ![](../../.gitbook/assets/99.png)
-
-## 相关资源
-
-[电位器数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/摇杆-摇杆电位器.PDF)
 
 ## 常见问题
 

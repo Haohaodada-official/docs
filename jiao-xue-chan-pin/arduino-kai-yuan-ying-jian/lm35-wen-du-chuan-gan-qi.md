@@ -31,7 +31,7 @@ LM35温度传感器模块是基于LM35的半导体温度传感器，可以用来
 
 ## 原理图
 
-[LM35温度传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/LM35传感器模块.pdf)
+{% file src="../../.gitbook/assets/lm35-chuan-gan-qi-mo-kuai.pdf" caption="LM35温度传感器模块原理图" %}
 
 ## 尺寸说明
 
@@ -39,7 +39,7 @@ LM35温度传感器模块是基于LM35的半导体温度传感器，可以用来
 
 ## 相关资源
 
-[LM35数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/LM35.PDF)
+{% file src="../../.gitbook/assets/lm35.PDF" caption="LM35芯片说明" %}
 
 ## 常见问题
 

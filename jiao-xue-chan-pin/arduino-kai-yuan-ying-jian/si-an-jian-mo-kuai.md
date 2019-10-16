@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[四按键模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/四按键模块.pdf)
+{% file src="../../.gitbook/assets/si-an-jian-mo-kuai.pdf" caption="四按键模块原理图" %}
 
 ## 尺寸说明
 

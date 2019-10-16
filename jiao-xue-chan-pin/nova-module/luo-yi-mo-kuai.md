@@ -28,7 +28,7 @@ NOVA陀螺仪传感器采用MPU6050芯片，它是一种非常流行的空间运
 
 ## 原理图
 
-[陀螺仪模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/陀螺仪模块.pdf)
+{% file src="../../.gitbook/assets/tuo-luo-yi-mo-kuai.pdf" caption="陀螺仪模块原理图" %}
 
 ## 尺寸说明
 
@@ -36,7 +36,7 @@ NOVA陀螺仪传感器采用MPU6050芯片，它是一种非常流行的空间运
 
 ## 相关资源
 
-[MPU6050芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/陀螺仪-MPU6050.PDF)
+{% file src="../../.gitbook/assets/tuo-luo-yi-mpu6050.PDF" caption="MPU6050芯片说明" %}
 
 ## 常见问题
 

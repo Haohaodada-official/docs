@@ -50,7 +50,7 @@ mp3 程序块有三个，分别为音量设置，指定曲目播放和播放模�
 
 ## 原理图
 
-[MP3音乐模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/MP3音乐模块.pdf)
+{% file src="../../.gitbook/assets/mp3-yin-le-mo-kuai \(1\).pdf" caption="MP3音乐模块原理图" %}
 
 ## 尺寸说明
 

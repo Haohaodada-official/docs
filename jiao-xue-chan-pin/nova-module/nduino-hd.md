@@ -37,11 +37,9 @@ Nova是一款专门面向少年儿童创客设计、开发的开源硬件，使�
 
 ## 教程
 
-[NOVA标准课程教程](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/nova-module/pdf/NOVA标准课程教程（HD版%20第一稿）.pdf)
-
-[基于Scratch的Arduino智能造物入门](https://docs.haohaodada.com/~/revisions/-LaJ8JiDM62JyESt8TJM/zai-xian-ru-men-ke-cheng/scratch-arduino-primer)
+{% file src="../../.gitbook/assets/nova-biao-zhun-ke-cheng-jiao-cheng-hd-ban-di-yi-gao.pdf" caption="NOVA标准课程教程" %}
 
 ## 原理图
 
-[Nduino HD原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/nova-module/pdf/02010002-Nduino%20HD.pdf)
+{% file src="../../.gitbook/assets/nova-hd-yuan-li-tu.pdf" caption="Nduino HD 原理图" %}
 

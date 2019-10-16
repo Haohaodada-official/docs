@@ -28,7 +28,7 @@ NOVA的灰度模块具有微型化、智能化、多功能化的特点。它通�
 
 ## 原理图
 
-[灰度传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/灰度传感器模块.pdf)
+{% file src="../../.gitbook/assets/hui-du-chuan-gan-qi-mo-kuai \(1\).pdf" caption="灰度传感器模块原理图" %}
 
 ## 尺寸说明
 
@@ -36,7 +36,7 @@ NOVA的灰度模块具有微型化、智能化、多功能化的特点。它通�
 
 ## 相关资源
 
-[SN74LVC1G14DBVR芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/灰度-SN74LVC1G14DBVR.PDF)
+{% file src="../../.gitbook/assets/hui-du-sn74lvc1g14dbvr.PDF" caption="SN74LVC1G14DBVR芯片说明" %}
 
 ## 常见问题
 

@@ -1,4 +1,4 @@
-# 按键模块
+# 单按键模块
 
 ## 概述
 
@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[单按键模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/单按键.pdf)
+{% file src="../../.gitbook/assets/dan-an-jian \(1\).pdf" caption="单按键模块原理图" %}
 
 ## 尺寸说明
 

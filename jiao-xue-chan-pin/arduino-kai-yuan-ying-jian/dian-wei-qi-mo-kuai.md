@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[电位器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/电位器模块.pdf)
+{% file src="../../.gitbook/assets/dian-wei-qi-mo-kuai.pdf" caption="电位器模块原理图" %}
 
 ## 尺寸说明
 

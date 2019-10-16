@@ -41,7 +41,7 @@
 
 ## 原理图
 
-[震动开关模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/震动开关模块.pdf)
+{% file src="../../.gitbook/assets/zhen-dong-kai-guan-mo-kuai.pdf" caption="震动开关模块原理图" %}
 
 ## 尺寸说明
 

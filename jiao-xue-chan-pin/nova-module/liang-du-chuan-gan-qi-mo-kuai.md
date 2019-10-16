@@ -32,15 +32,11 @@ NOVA光敏传感器以模拟量输出，光线越强AD采样值越大，反之�
 
 ## 原理图
 
-[亮度传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/光线传感器模块.pdf)
+{% file src="../../.gitbook/assets/guang-xian-chuan-gan-qi-mo-kuai.pdf" caption="亮度传感器模块原理图" %}
 
 ## 尺寸说明
 
 ![](../../.gitbook/assets/116.png)
-
-## 相关资源
-
-[光敏电阻数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/亮度-光敏电阻.PDF)
 
 ## 常见问题
 

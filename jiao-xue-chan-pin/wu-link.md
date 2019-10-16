@@ -22,17 +22,17 @@ WU-Link 最大的亮点在于物联网相关的设置与通讯非常简单，让
 
 ## 扩展接口说明
 
-[WU-Link扩展接口说明](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/WU-Link扩展接口说明.pdf)
+{% file src="../.gitbook/assets/wulink-kuo-zhan-jie-kou-shuo-ming.pdf" caption="WU-Link扩展接口说明" %}
 
 ## 使用方式
 
-[WU-Link简易教程](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/WU-Link简易教程.pdf)
+{% file src="../.gitbook/assets/wulink-jian-yi-jiao-cheng.pdf" caption="WU-Link简易教程" %}
 
-[WU-Link物联网套件教程-统稿](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/WU-Link物联网套件教程-统稿.pdf)
+{% file src="../.gitbook/assets/wulink-wu-lian-wang-tao-jian-jiao-cheng-tong-gao.pdf" caption="WU-Link物联网套件教程-统稿" %}
 
 ## 课程
 
-[WU-Link智能造物入门](https://docs.haohaodada.com/~/revisions/-LaJ8JiDM62JyESt8TJM/zai-xian-ru-men-ke-cheng/wulink-primer)
+{% page-ref page="../zai-xian-ru-men-ke-cheng/wulink-primer/" %}
 
 ## 原理图
 

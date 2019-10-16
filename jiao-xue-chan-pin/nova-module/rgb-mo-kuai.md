@@ -30,7 +30,7 @@ Nova的RGB模块主要实现LED灯的各种颜色、亮度的控制，从而产�
 
 ## 原理图
 
-[RGB模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/RGB灯模块.pdf)
+{% file src="../../.gitbook/assets/rgb-deng-mo-kuai \(1\).pdf" caption="RGB灯模块原理图" %}
 
 ## 尺寸说明
 

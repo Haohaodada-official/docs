@@ -21,15 +21,15 @@ Nduino Bot主板是专为小车而设计，在延续了HD主板设计理念的�
 
 ![](../../.gitbook/assets/a03.png)
 
-## 使用方式
+## 编程界面
 
 [Nova小车编程模板](http://haohaodada.com/show.php?id=581529)
 
 ## 相关资源
 
-[NOVA智能小车V3.0使用说明书](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/nova-module/pdf/NOVA智能小车V3.0使用说明书.pdf)
+{% file src="../../.gitbook/assets/nova-zhi-neng-xiao-che-v3.0-shi-yong-shuo-ming-shu.pdf" caption="NOVA智能小车V3.0使用说明书" %}
 
-[基于Scratch的智能小车编程-V4](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/nova-module/pdf/基于Scratch的智能小车编程-V4.pdf)
+{% file src="../../.gitbook/assets/ji-yu-scratch-de-zhi-neng-xiao-che-bian-cheng-v4.pdf" caption="基于Scratch的智能小车编程-V4" %}
 
 ## 常见问题
 

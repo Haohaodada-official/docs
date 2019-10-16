@@ -29,7 +29,7 @@
 
 ## 原理图
 
-[蜂鸣器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/蜂鸣器模块.pdf)
+{% file src="../../.gitbook/assets/feng-ming-qi-mo-kuai.pdf" caption="蜂鸣器模块原理图" %}
 
 ## 尺寸说明
 

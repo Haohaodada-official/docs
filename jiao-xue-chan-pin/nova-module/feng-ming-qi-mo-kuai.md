@@ -27,7 +27,7 @@ NOVA的蜂鸣器模块，为无源蜂鸣器，根据输入的频率不同，产�
 
 ## 原理图
 
-[蜂鸣器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/蜂鸣器模块.pdf)
+{% file src="../../.gitbook/assets/feng-ming-qi-mo-kuai \(1\).pdf" caption="蜂鸣器模块原理图" %}
 
 ## 尺寸说明
 

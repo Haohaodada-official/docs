@@ -28,7 +28,7 @@ NOVA的数码管计数模块可以用来显示数字。配套的驱动程序，�
 
 ## 原理图
 
-[4位计数数码管模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/4位数码管模块.pdf)
+{% file src="../../.gitbook/assets/4-wei-shu-ma-guan-mo-kuai.pdf" caption="4位计数数码管模块原理图" %}
 
 ## 尺寸说明
 
@@ -38,7 +38,7 @@ NOVA的数码管计数模块可以用来显示数字。配套的驱动程序，�
 
 ## 相关资源
 
-[TM1650芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/数码管-TM1650.PDF)
+{% file src="../../.gitbook/assets/shu-ma-guan-tm1650.PDF" caption="TM1650芯片说明" %}
 
 ## 常见问题
 

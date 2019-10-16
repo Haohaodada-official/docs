@@ -35,7 +35,7 @@
 
 ## 原理图
 
-[时钟模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/时钟模块.pdf)
+{% file src="../../.gitbook/assets/shi-zhong-mo-kuai.pdf" caption="时钟模块原理图" %}
 
 ## 尺寸说明
 
@@ -43,7 +43,7 @@
 
 ## 相关资源
 
-[DS1307芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/时钟-DS1307.PDF)
+{% file src="../../.gitbook/assets/shi-zhong-ds1307.PDF" caption="DS1307芯片说明" %}
 
 ## 常见问题
 

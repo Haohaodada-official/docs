@@ -25,7 +25,7 @@
 
 ## 原理图
 
-[蓝牙模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/蓝牙模块.pdf)
+{% file src="../../.gitbook/assets/lan-ya-mo-kuai \(1\).pdf" caption="蓝牙模块原理图" %}
 
 ## 尺寸说明
 

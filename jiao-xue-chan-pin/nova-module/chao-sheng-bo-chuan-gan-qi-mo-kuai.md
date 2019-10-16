@@ -28,7 +28,7 @@ NOVA超声波模块有效探测距离范围为4-400cm，一个发射探头，一
 
 ## 原理图
 
-[超声波传感器模块原理图](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/yuan-li-tu/超声波传感器模块.pdf)
+{% file src="../../.gitbook/assets/chao-sheng-bo-chuan-gan-qi-mo-kuai.pdf" caption="超声波传感器模块原理图" %}
 
 ## 尺寸说明
 
@@ -38,11 +38,11 @@ NOVA超声波模块有效探测距离范围为4-400cm，一个发射探头，一
 
 ## 相关资源
 
-[STM8S003F3U6TR芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/超声波-STM8S003F3U6TR.PDF)
+{% file src="../../.gitbook/assets/chao-sheng-bo-stm8s003f3u6tr.PDF" caption="STM8S003F3U6TR芯片手册" %}
 
-[MAX232芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/超声波-MAX232.PDF)
+{% file src="../../.gitbook/assets/chao-sheng-bo-max232.PDF" caption="MAX232芯片手册" %}
 
-[LMV324IDR芯片手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/超声波-LMV324IDR.PDF)
+{% file src="../../.gitbook/assets/chao-sheng-bo-lmv324idr.PDF" caption="LMV324IDR芯片手册" %}
 
 ## 常见问题
 
