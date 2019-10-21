@@ -50,7 +50,21 @@
 
 ## 编程下载
 
-![](../.gitbook/assets/012%20%281%29.png)
+1.进入新版好好搭搭网站“创作”界面，下拉选择无线下载模式编程中的“好搭BOX智能实验箱”，点击进入好搭BOX编程界面。
+
+![](../.gitbook/assets/10-haodabox-1.png)
+
+2.进入好搭BOX编程界面，添加设备。
+
+![](../.gitbook/assets/10-haodabox-2.png)
+
+3.编写程序，点击下载到设备。程序下载成功后，好搭BOX的LED模块上红灯闪烁。
+
+![](../.gitbook/assets/10-haodabox-3.png)
+
+示例程序：
+
+![](../.gitbook/assets/10-haodabox-4.png)
 
 ## 课程
 

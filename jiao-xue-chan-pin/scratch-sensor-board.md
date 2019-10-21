@@ -2,7 +2,7 @@
 
 ## 概述
 
-好搭Scratch传感器板是，是一款可以让Scratch动画和各种传感器交互的硬件，做出更加生动有趣的互动动画项目。好搭Scratch传感器板是一个让孩子从Scratch动画编程过渡到Scratch硬件编程的桥梁。
+好搭Scratch传感器板，是一款可以让Scratch动画和各种传感器交互的硬件，做出更加生动有趣的互动动画项目。好搭Scratch传感器板是一个让孩子从Scratch动画编程过渡到Scratch硬件编程的桥梁。
 
 ![](../.gitbook/assets/ss00.png)
 
@@ -47,25 +47,25 @@
 
 点击“连接”按钮，此时右下角仍显示“未连接”，正常。串口会自动选择为传感器板对应的串口，COM后接的数字不同电脑可能不一样。
 
-5.单击“创作”按钮，选择“好好搭搭传感器板”
+5.单击“创作”按钮，选择“传感器板互动编程”
 
-![](../.gitbook/assets/04.png)
+![](../.gitbook/assets/10-scratch-4.png)
 
-进入“scratch传感器编程模板”
+进入“好搭传感器板”
 
-![](../.gitbook/assets/05.png)
+![](../.gitbook/assets/10-scratch-8.png)
 
 6.点击“绿旗”图标，连接成功后，舞台中的传感器数值会不断跳动，插件右下角显示“已连接”。如不成功，请重复点击插件“连接”按钮——点击编程模板“绿旗”图标。
 
-![](../.gitbook/assets/06.png)
+![](../.gitbook/assets/10-scratch-5.png)
 
 ![](../.gitbook/assets/07.png)
 
 7.点击“转到设计页”进入
 
-![](../.gitbook/assets/08%20%281%29.png)
+![](../.gitbook/assets/10-scratch-6.png)
 
-![](../.gitbook/assets/09%20%281%29.png)
+![](../.gitbook/assets/10-scratch-7.png)
 
 ## 常见问题
 
