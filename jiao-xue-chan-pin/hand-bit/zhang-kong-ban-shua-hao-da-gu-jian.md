@@ -16,7 +16,7 @@
 
 1.[点击此处](http://www.haohaodada.com/art_show.php?id=201)进入好好搭搭掌控固件下载界面，点击固件下载。
 
-![](../../.gitbook/assets/zhangkong-1.png)
+![](../../.gitbook/assets/10-zhangkong-1.png)
 
 打开压缩包得到如下文件：
 
@@ -72,7 +72,7 @@
 
 1.[点击此处](http://www.haohaodada.com/wulink-python/)或通过好好搭搭网站的创作界面进入掌控编程界面并登录。
 
-![](../../.gitbook/assets/zhangkong-15.png)
+![](../../.gitbook/assets/10-zhangkong-2.png)
 
 2.示例代码
 
