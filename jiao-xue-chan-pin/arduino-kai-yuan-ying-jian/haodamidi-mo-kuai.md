@@ -68,9 +68,9 @@
 
 ![](../../.gitbook/assets/haodamidi-7.png)
 
-![](../../.gitbook/assets/haodamidi-9.png)
+![](../../.gitbook/assets/_u-n-_92ghf-na5u-3cnpso.png)
 
-![](../../.gitbook/assets/haodamidi-10.png)
+![](../../.gitbook/assets/qckrtcy-t41-o_-gznvj-17.png)
 
 haodaMIDI扩展包链接：[https://github.com/Haohaodada-official/pxt-haodaMIDI.git](https://github.com/Haohaodada-official/pxt-haodaMIDI.git)
 

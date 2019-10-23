@@ -49,7 +49,7 @@ PH计包括一个PH传感器和PH传感器模块，二者通过BNC接口相连�
 
 ## 相关资源
 
-[芯片LM2660M芯片数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/pH%E5%80%BC%E4%BC%A0%E6%84%9F%E5%99%A8-LM2660M.PDF)
+{% file src="../../.gitbook/assets/ph-zhi-chuan-gan-qi-lm2660m.PDF" caption="LM2660M芯片手册" %}
 
 ## 常见问题
 

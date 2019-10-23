@@ -44,7 +44,7 @@ WULink-Python刷好搭固件和联网配置方式与掌控板刷好搭固件一�
 
 4.进入编程界面后，填写WULink-Python对应mac地址，编写程序，点击下载到设备。
 
-![](../../.gitbook/assets/boxzk-4.png)
+![](../../.gitbook/assets/10-wulinkpython-1.png)
 
 示例程序：
 

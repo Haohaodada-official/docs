@@ -39,7 +39,7 @@
 
 ## 相关资源
 
-[芯片BMP280芯片数据手册](https://github.com/Haohaodada-official/docs/blob/master/jiao-xue-chan-pin/pdf/xin-pian-shuo-ming/%E6%B0%94%E5%8E%8B%E4%BC%A0%E6%84%9F%E5%99%A8BMP280.PDF)
+{% file src="../../.gitbook/assets/qi-ya-chuan-gan-qi-bmp280.PDF" caption="BMP280芯片手册" %}
 
 ## 常见问题
 
