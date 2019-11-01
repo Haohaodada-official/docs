@@ -33,7 +33,7 @@ Step 1:连接
 
 Step 2: 编程
 
-浏览器打开网址haohaodada.com/pythonboard。现在我们来写第一个程序。从左侧图形块菜单里找到我们第一个图形块“显示/屏幕显示字符串”，再从“文本”找到如图所示模块，然后写上“Hello World!”
+[点击此处](http://www.haohaodada.com/pythonboard/)进入PythonBoard编程界面。现在我们来写第一个程序。从左侧图形块菜单里找到我们第一个图形块“显示/屏幕显示字符串”，再从“文本”找到如图所示模块，然后写上“Hello World!”
 
 ![](../.gitbook/assets/10-python-1%20%281%29.png)
 
