@@ -33,13 +33,23 @@ Nduino-Wulink是在nova的BOT板的基础之上，增加了无线网卡，集云
 
 ## 使用方式
 
+进入好好搭搭新版网站并进入创作界面，选择WULink-Nova编程界面。
+
+![](../../.gitbook/assets/el-hja-6q4vslo-z-fajv.png)
+
+![](../../.gitbook/assets/dyuimshz5-o73-usdxa-fa0usdp.png)
+
+Nduino-Wulink下载程序有wifi下载和U盘下载两种模式。
+
 wifi下载模式：
 
 1.连接wifi下载模块。
 
 2.进行网络配置，按住WIFI配置键开机，蜂鸣器响一声，WIFI配置指示灯红色常亮，再按一下WIFI配置键，蜂鸣器长响一声，设备进入WIFI配置模式，进入好好搭搭微信公众号的好搭物联网小程序进行配置，配置成功后指示灯变蓝色。进行网络配置，按住WIFI配置键开机，蜂鸣器响一声，WIFI配置指示灯红色常亮，进入好好搭搭微信公众号的好搭物联网小程序进行配置，配置成功后指示灯变蓝色。
 
-3.配置成功后[单击此处](http://www.haohaodada.com/wulink-nova/)进入编程界面，即可编程下载。
+3.配置成功后，回到编程界面，添加设备mac地址，编写程序并点击“无线下载”，程序下载成功后浏览器弹出对话框提示下载成功，设备蜂鸣器滴滴滴响几声，即下载程序成功。
+
+![](../../.gitbook/assets/11-nuduino.png)
 
 U盘下载模式：
 
@@ -47,15 +57,9 @@ U盘下载模式：
 
 ![](../../.gitbook/assets/nduino-wulink-1.png)
 
-2.进入好好搭搭网站创作界面，进入nova编程界面或[单击此处](http://www.haohaodada.com/show.php?id=1067977)进入编程界面
+2.回到编程界面，编写程序，点击“U盘下载”选择下载路径为haohaodada U盘，点击保存即可下载。
 
-3.编写程序并点击编译下载，弹出如下对话框并点击保存。
-
-![](../../.gitbook/assets/nduino-wulink-2.png)
-
-4.选择保存路径为haohaodada U盘，修改文件名称为_\*\*_.hex形式，点击保存即可下载。
-
-![](../../.gitbook/assets/nduino-wulink-3.png)
+![](../../.gitbook/assets/zbo-o1knop-5er0jusdbdvem.png)
 
 ## 原理图
 

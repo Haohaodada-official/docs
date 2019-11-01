@@ -44,19 +44,27 @@
 
 ## 示例
 
-1.徽章板和好搭酷
+### 徽章板和好搭酷
 
-![](../../.gitbook/assets/haodamidi-2.png)
+1、电脑作为MIDI：将徽章板或好搭酷与电脑通过USB线连接，编写代码下载到设备，下载成功后，电脑音频输出音乐。
 
 ![](../../.gitbook/assets/haodamidi-3.png)
 
 ![](../../.gitbook/assets/haodamidi-4.png)
 
+2、连接haodaMIDI模块：将haodaMIDI与徽章板或好搭酷的扩展接口连接，并连接音响或耳机，下载程序后，haodaMIDI通过音响或耳机播放音乐。
+
+![](../../.gitbook/assets/haodamidi-ff-1.png)
+
+![](../../.gitbook/assets/haodamidi-ff-2.png)
+
+![](../../.gitbook/assets/haodamidi-ff-3.png)
+
 [点击此处](http://www.haohaodada.com/hz/) 进入徽章板编程界面
 
 [点击此处](http://www.haohaodada.com/Core/) 进入好搭酷编程界面
 
-2.Arduino UNO
+### Arduino UNO
 
 ![](../../.gitbook/assets/haodamidi-5.png)
 
@@ -64,7 +72,7 @@
 
 使用前，先加载库文件，库文件见附录。
 
-3.micro:bit
+### micro:bit
 
 ![](../../.gitbook/assets/haodamidi-7.png)
 
@@ -74,7 +82,7 @@
 
 haodaMIDI扩展包链接：[https://github.com/Haohaodada-official/pxt-haodaMIDI.git](https://github.com/Haohaodada-official/pxt-haodaMIDI.git)
 
-4.掌控板
+### 掌控板
 
 ![](../../.gitbook/assets/haodamidi-8.png)
 
