@@ -64,7 +64,7 @@
 
 ![](../../.gitbook/assets/zhangkong-13.jpg)
 
-3.打开setwifi应用程序，输入欲连接的wifi名称及密码点击设置进行配网。连接成功后显示已连接并跳转到如下界面及配网成功。
+3.打开setwifi应用程序，输入欲连接的wifi名称及密码点击设置进行配网。连接成功后显示已连接并跳转到如下界面即配网成功。
 
 ![](../../.gitbook/assets/zhangkong-14.jpg)
 
